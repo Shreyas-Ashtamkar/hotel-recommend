@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whatsapp</title>
+</head>
+<body>
+    <form method="post" action="/whatsapp/">
+        <label for="user">User : </label>
+        <input type="number" name="user" id="user" min="1" max="50" value="1"><br/>
+
+        <label for="type">Trip_Type : </label>
+        <select name="type" id="type">
+                <option value="business">business</option> 
+                <option value="lesiure">lesiure</option>
+        </select><br/>
+        
+        <label for="companion">Companion : </label>
+        <select name="companion" id="companion">
+                <option value="couple">couple</option> 
+                <option value="family">family</option>
+                <option value="friend">friend</option>
+                <option value="solo">solo</option>
+        </select><br/>
+        
+        <label for="destination">Destinaiton : </label>
+        <select name="destination" id="destination">
+                <option value="business">business</option> 
+                <option value="lesiure">lesiure</option>
+        </select><br/>
+
+        <input type="submit" value="Send">
+    </form>
+</body>
+</html>

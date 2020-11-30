@@ -1,0 +1,829 @@
+user_id,hotel_name,rating,price,near_station,restaurant,entertain,shopping_mall,convenience_store,trip_type,companion,destination
+user1,Marunouchi Hotel,9,8248,0.215053763,0.215053763,0.161290323,0.193548387,0.215053763,leisure,couple,tokyo
+user1,HOTEL MYSTAYS Haneda,9,6124,0.268292683,0.487804878,0.024390244,0,0.219512195,business,family,tokyo
+user1,Richmond Hotel Premier Asakusa International,9,8166,0.134146341,0.243902439,0.158536585,0.243902439,0.219512195,business,family,tokyo
+user1,Ueno First City Hotel,8,6186,0.120879121,0.21978022,0.21978022,0.21978022,0.21978022,leisure,friend,tokyo
+user1,Daiwa Roynet Hotel Tokyo Akabane,9,6186,0.135135135,0.27027027,0.27027027,0.054054054,0.27027027,leisure,family,tokyo
+user1,Mandarin Oriental Tokyo,9,23050,0.15942029,0.289855072,0.130434783,0.130434783,0.289855072,leisure,family,tokyo
+user1,APA Hotel Shimbashi Toranomon,8,6805,0.202531646,0.253164557,0.253164557,0.037974684,0.253164557,business,friend,tokyo
+user1,APA Hotel Shinagawa Sengakuji Eki-Mae,8,2134,0.142857143,0.571428571,0,0.085714286,0.2,leisure,solo,tokyo
+user1,HOTEL MYSTAYS Asakusa bashi,8,4640,0.105263158,0.350877193,0.192982456,0,0.350877193,leisure,family,tokyo
+user1,HOTEL MYSTAYS Ueno East,8,2870,0.076923077,0.384615385,0.096153846,0.057692308,0.384615385,leisure,solo,tokyo
+user1,Hotel Kaminarimon,8.5,2134,0.180722892,0.240963855,0.108433735,0.240963855,0.228915663,business,solo,tokyo
+user1,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user1,APA Hotel Ginza-Takaracho,8,3402,0.139240506,0.253164557,0.126582278,0.227848101,0.253164557,leisure,couple,tokyo
+user1,APA Hotel Okachimachi Eki-Kita S,8,6681,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,leisure,friend,tokyo
+user1,Hotel New Tohoku,8,4899,0.133333333,0.222222222,0.2,0.222222222,0.222222222,leisure,friend,tokyo
+user1,APA Hotel Tokyo Kudanshita,7.5,5258,0.098039216,0.392156863,0.078431373,0.039215686,0.392156863,leisure,friend,tokyo
+user1,Ace Inn Asakusa,8,773,0.170212766,0.425531915,0.063829787,0.042553191,0.29787234,leisure,solo,tokyo
+user1,APA Hotel Nihombashi Hamacho-eki Minami,8,6496,0.25,0.555555556,0,0.027777778,0.166666667,leisure,family,tokyo
+user1,E Hotel Higashi Shinjuku,7.5,6712,0.105263158,0.263157895,0.263157895,0.105263158,0.263157895,business,family,tokyo
+user1,The Nell Ueno Okachimachi,8,1794,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,couple,tokyo
+user1,Holiday View Inn,8,4640,0.115942029,0.289855072,0.231884058,0.072463768,0.289855072,leisure,couple,tokyo
+user1,Koraku Garden Hotel,7.5,2372,0.055555556,0.37037037,0.111111111,0.092592593,0.37037037,business,couple,tokyo
+user1,APA Hotel Shintomicho-Ekimae,8,2165,0.23880597,0.298507463,0.074626866,0.089552239,0.298507463,business,solo,tokyo
+user1,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user10,Keio Presso Inn Akasaka,9,4949,0.111111111,0.277777778,0.277777778,0.055555556,0.277777778,leisure,solo,tokyo
+user10,Hotel Sunroute Asakusa,8,3402,0.13253012,0.240963855,0.144578313,0.240963855,0.240963855,leisure,couple,tokyo
+user10,Hotel Sunroute Shinagawa Seaside,8,2815,0.162790698,0.465116279,0.046511628,0.046511628,0.279069767,business,couple,tokyo
+user10,Forest Hongo,8,6614,0.142857143,0.571428571,0.028571429,0,0.257142857,leisure,family,tokyo
+user10,Keikyu EX Inn Shinagawa,8.5,2923,0.2,0.285714286,0.142857143,0.1,0.271428571,leisure,solo,tokyo
+user10,Grand Prince Hotel Takanawa,8,5365,0.272727273,0.363636364,0.090909091,0.036363636,0.236363636,leisure,couple,tokyo
+user10,Smi:re Stay Tokyo,9,5089,0.171428571,0.571428571,0,0,0.257142857,business,family,tokyo
+user10,Kotobuki Sou,10,10826,0.171428571,0.285714286,0.1,0.157142857,0.285714286,leisure,family,tokyo
+user10,Nihonbashi Muromachi Bay Hotel,9,1237,0.217391304,0.289855072,0.086956522,0.115942029,0.289855072,leisure,solo,tokyo
+user10,New Otani Inn Tokyo,8,5877,0.166666667,0.37037037,0.018518519,0.074074074,0.37037037,business,friend,tokyo
+user10,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user10,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user10,Sakura Hostel Asakusa,8,3155,0.147058824,0.294117647,0.132352941,0.205882353,0.220588235,business,couple,tokyo
+user10,Shinjuku Washington Hotel,8,3588,0.243902439,0.243902439,0.097560976,0.170731707,0.243902439,business,solo,tokyo
+user10,Shibuya Hotel En,8,10857,0.14893617,0.212765957,0.212765957,0.212765957,0.212765957,leisure,family,tokyo
+user10,Tokyu Stay Ikebukuro,9,6619,0.104651163,0.23255814,0.23255814,0.197674419,0.23255814,leisure,family,tokyo
+user10,Tokyu Stay Ginza,9,8692,0.202020202,0.202020202,0.202020202,0.191919192,0.202020202,leisure,family,tokyo
+user10,House Ikebukuro,9,4825,0.103896104,0.25974026,0.25974026,0.116883117,0.25974026,business,friend,tokyo
+user10,Dai-ichi Hotel Tokyo Seafort,8,7331,0.311111111,0.444444444,0.022222222,0.088888889,0.133333333,business,friend,tokyo
+user10,APA Hotel Nihombashi Hamacho-eki Minami,8,5506,0.25,0.555555556,0,0.027777778,0.166666667,business,friend,tokyo
+user10,Hotel Nihonbashi Saibo,8,2672,0.125,0.3125,0.234375,0.015625,0.3125,leisure,couple,tokyo
+user10,First Cabin Atagoyama,8,1732,0.209876543,0.24691358,0.24691358,0.049382716,0.24691358,leisure,solo,tokyo
+user10,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user10,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user11,The Nell Ueno Okachimachi,8,1794,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,couple,tokyo
+user11,Hotel East 21 Tokyo,8.5,6310,0.2,0.5,0.025,0.025,0.25,business,family,tokyo
+user11,Asakusa Hotel Hatago,9,7423,0.21875,0.3125,0.046875,0.109375,0.3125,leisure,friend,tokyo
+user11,Oriental Hotel Tokyo Bay,9,5258,0.272727273,0.454545455,0.045454545,0.068181818,0.159090909,business,couple,tokyo
+user11,Hotel Rose Garden Shinjuku,8,8080,0.23255814,0.23255814,0.139534884,0.162790698,0.23255814,business,friend,tokyo
+user11,Mitsui Garden Hotel Yotsuya,9,8661,0.127659574,0.425531915,0.127659574,0.021276596,0.29787234,business,friend,tokyo
+user11,Ikidane House,9,3712,0.142857143,0.571428571,0.057142857,0.057142857,0.171428571,leisure,family,tokyo
+user11,Ryokan Katsutaro,8,3062,0.148148148,0.740740741,0,0,0.111111111,business,couple,tokyo
+user11,Chisun Inn Kamata,8,2672,0.171052632,0.263157895,0.263157895,0.039473684,0.263157895,leisure,couple,tokyo
+user11,APA Hotel Tsukiji-eki Minami,8,5104,0.237288136,0.338983051,0,0.084745763,0.338983051,leisure,family,tokyo
+user11,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user11,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user11,Shinjuku Prince Hotel,8,11759,0.2,0.2,0.2,0.2,0.2,business,friend,tokyo
+user11,Tokyu Stay Nishi Shinjuku,8,7145,0.192982456,0.350877193,0.105263158,0.052631579,0.298245614,leisure,family,tokyo
+user11,Dormy Inn Express Meguro Aobadai Hot Spring,8,9217,0.157894737,0.526315789,0,0.052631579,0.263157895,leisure,couple,tokyo
+user11,Japonica Lodge Asakusa,8,3093,0.242424242,0.303030303,0.03030303,0.196969697,0.227272727,leisure,friend,tokyo
+user11,APA Hotel Shinjuku-Kabukicho Tower,8,3402,0.120879121,0.21978022,0.21978022,0.21978022,0.21978022,business,solo,tokyo
+user11,HOTEL MYSTAYS Ueno Iriyaguchi,8,2629,0.076923077,0.384615385,0.096153846,0.057692308,0.384615385,business,solo,tokyo
+user11,Hotel Lungwood,8,6186,0.096153846,0.384615385,0.230769231,0.019230769,0.269230769,business,friend,tokyo
+user11,Shinkoiwa Park Hotel,8,4318,0.180327869,0.327868852,0.196721311,0.016393443,0.278688525,business,friend,tokyo
+user11,Hotel Sunroute Shinagawa Seaside,8,2815,0.162790698,0.465116279,0.046511628,0.046511628,0.279069767,business,couple,tokyo
+user11,HOTEL MYSTAYS Ueno Iriyaguchi,8,2629,0.076923077,0.384615385,0.096153846,0.057692308,0.384615385,leisure,solo,tokyo
+user11,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user12,Hotel Coco Grand Ueno Shinobazu,9,15032,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,family,tokyo
+user12,Shinagawa Tobu Hotel,8,20786,0.20754717,0.377358491,0.113207547,0.037735849,0.264150943,leisure,friend,tokyo
+user12,Holiday View Inn,8,1392,0.115942029,0.289855072,0.231884058,0.072463768,0.289855072,business,solo,tokyo
+user12,Anne Hostel,8,1918,0.16,0.4,0.14,0.02,0.28,business,couple,tokyo
+user12,Dai-ichi Hotel Ryogoku,8,5104,0.195652174,0.434782609,0.043478261,0,0.326086957,business,family,tokyo
+user12,Shinjuku Washington Hotel,8,4949,0.243902439,0.243902439,0.097560976,0.170731707,0.243902439,business,couple,tokyo
+user12,Sotetsu Fresa Inn Nihombashi Kayabacho,8,6496,0.203703704,0.37037037,0.018518519,0.037037037,0.37037037,leisure,family,tokyo
+user12,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,leisure,couple,tokyo
+user12,Kuretake-Inn Tokyo Funabori,8,5320,0.184210526,0.526315789,0.026315789,0.026315789,0.236842105,business,friend,tokyo
+user12,Artist Hotel - BnA HOTEL Koenji,8,4949,0.131578947,0.263157895,0.263157895,0.078947368,0.263157895,leisure,couple,tokyo
+user12,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user12,Asakusa View Hotel,8,4949,0.114285714,0.285714286,0.157142857,0.228571429,0.214285714,leisure,couple,tokyo
+user12,Toyoko Inn Tokyo Shinjuku Kabuki-cho,8,2606,0.090909091,0.227272727,0.227272727,0.227272727,0.227272727,leisure,solo,tokyo
+user12,Ark Hotel Tokyo Ikebukuro,8,5289,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,family,tokyo
+user12,"The Prince Sakura Tower Tokyo, Autograph Collection",9,19512,0.215384615,0.307692308,0.107692308,0.076923077,0.292307692,business,family,tokyo
+user12,Hotel Cadenza Hikarigaoka,8,18440,0.192307692,0.615384615,0,0,0.192307692,leisure,friend,tokyo
+user12,Nishitetsu Inn Nihonbashi,8,2938,0.154929577,0.281690141,0.225352113,0.056338028,0.281690141,business,couple,tokyo
+user12,Tokyo Green Palace,8,4440,0.125,0.416666667,0.020833333,0.020833333,0.416666667,business,solo,tokyo
+user12,APA Hotel Higashi Shinjuku Kabukicho,8,2784,0.1125,0.25,0.25,0.1375,0.25,leisure,solo,tokyo
+user12,Grand Prince Hotel Takanawa,8,5365,0.272727273,0.363636364,0.090909091,0.036363636,0.236363636,leisure,couple,tokyo
+user12,Hotel Chinzanso Tokyo,9,10254,0.235294118,0.588235294,0,0.029411765,0.147058824,leisure,family,tokyo
+user12,APA Hotel Ginza-Takaracho,8,6805,0.139240506,0.253164557,0.126582278,0.227848101,0.253164557,business,friend,tokyo
+user13,Hotel Business Villa Omori,7,4949,0.106382979,0.425531915,0.021276596,0.021276596,0.425531915,business,family,tokyo
+user13,Toyoko Inn Tokyo Monzen-Nakacho Eitaibashi,8,5245,0.139534884,0.465116279,0.023255814,0.023255814,0.348837209,leisure,family,tokyo
+user13,Ginza Creston,8,7689,0.255813953,0.465116279,0,0,0.279069767,business,couple,tokyo
+user13,HOTEL MYSTAYS Gotanda Station,8,1670,0.1,0.285714286,0.285714286,0.042857143,0.285714286,business,solo,tokyo
+user13,Sutton Place Hotel Ueno,8,7423,0.1,0.333333333,0.116666667,0.116666667,0.333333333,leisure,friend,tokyo
+user13,Shiba Park Hotel,8,7423,0.245901639,0.327868852,0.049180328,0.049180328,0.327868852,business,friend,tokyo
+user13,Tokyu Stay Aoyama Premier,8,4052,0.109090909,0.363636364,0.090909091,0.163636364,0.272727273,leisure,solo,tokyo
+user13,Pearl Hotel Ryogoku,7,5320,0.181818182,0.454545455,0.136363636,0,0.227272727,business,friend,tokyo
+user13,Super Hotel Shinjuku Kabukicho,9,3402,0.120879121,0.21978022,0.21978022,0.21978022,0.21978022,business,solo,tokyo
+user13,APA Hotel Shintomicho-Ekimae,8,5258,0.23880597,0.298507463,0.074626866,0.089552239,0.298507463,leisure,friend,tokyo
+user13,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user13,Dai-ichi Hotel Ryogoku,8,10207,0.195652174,0.434782609,0.043478261,0,0.326086957,business,friend,tokyo
+user13,Tokyo Bay Ariake Washington Hotel,8,6557,0.270833333,0.416666667,0,0.0625,0.25,leisure,friend,tokyo
+user13,Capsule Hotel Anshin Oyado Shinbashi,9,1547,0.2,0.2,0.2,0.2,0.2,business,solo,tokyo
+user13,Hotel Keihan Asakusa,8,7516,0.121621622,0.27027027,0.175675676,0.243243243,0.189189189,leisure,friend,tokyo
+user13,FLEXSTAY INN Iidabashi,7.5,4949,0.120689655,0.344827586,0.086206897,0.103448276,0.344827586,business,friend,tokyo
+user13,Meitetsu Inn Hamamatsucho,8,3093,0.213114754,0.327868852,0.06557377,0.06557377,0.327868852,business,couple,tokyo
+user13,Dormy Inn Premium Shibuya-jingumae,9,9273,0.193181818,0.227272727,0.147727273,0.227272727,0.204545455,business,family,tokyo
+user13,Hotel Lumiere Kasai,8,3217,0.138461538,0.307692308,0.276923077,0.015384615,0.261538462,leisure,couple,tokyo
+user13,Hotel Trusty Tokyo Bayside,8,2598,0.151515152,0.606060606,0.03030303,0.060606061,0.151515152,business,solo,tokyo
+user13,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user13,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user13,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user14,Ark Hotel Tokyo Ikebukuro,8,5289,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,leisure,family,tokyo
+user14,Hotel Tokyo Garden Palace,8,6681,0.134615385,0.384615385,0.038461538,0.057692308,0.384615385,leisure,family,tokyo
+user14,Rihga Royal Hotel Tokyo,9,12635,0.189189189,0.540540541,0.027027027,0,0.243243243,business,friend,tokyo
+user14,Asakusa View Hotel,8,10517,0.114285714,0.285714286,0.157142857,0.228571429,0.214285714,business,friend,tokyo
+user14,Tokyu Stay Nishi Shinjuku,8,10022,0.192982456,0.350877193,0.105263158,0.052631579,0.298245614,business,friend,tokyo
+user14,APA Hotel Ueno-Ekimae,8,3093,0.042553191,0.425531915,0.021276596,0.085106383,0.425531915,business,solo,tokyo
+user14,HOTEL MYSTAYS PREMIER Omori,8,3619,0.205882353,0.294117647,0.132352941,0.073529412,0.294117647,leisure,solo,tokyo
+user14,APA Hotel Ningyocho-eki Kita,8,2165,0.222222222,0.277777778,0.208333333,0.013888889,0.277777778,business,solo,tokyo
+user14,Hotel Shirobara Inn Asakusa,8,6013,0.125,0.25,0.15,0.25,0.225,leisure,family,tokyo
+user14,Shibuya Tobu Hotel,8,6653,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,couple,tokyo
+user14,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user14,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user14,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user14,Anne Hostel,8,1918,0.16,0.4,0.14,0.02,0.28,leisure,couple,tokyo
+user14,Hotel Grand City,8,7052,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,business,friend,tokyo
+user14,APA Hotel Ningyocho-eki Kita,8,2165,0.222222222,0.277777778,0.208333333,0.013888889,0.277777778,business,solo,tokyo
+user14,Hotel Allamanda Aoyama Tokyo,9,15032,0.160714286,0.357142857,0.071428571,0.125,0.285714286,business,couple,tokyo
+user14,Hotel Risveglio Akasaka,9,2756,0.142857143,0.25974026,0.25974026,0.077922078,0.25974026,business,solo,tokyo
+user14,Hotel Monterey Ginza,8,5877,0.176470588,0.235294118,0.152941176,0.2,0.235294118,business,family,tokyo
+user14,the b tokyo akasaka-mitsuke,8,3286,0.133333333,0.266666667,0.266666667,0.066666667,0.266666667,business,solo,tokyo
+user14,Hotel Mandarin,8,5258,0.25,0.357142857,0.089285714,0.107142857,0.196428571,leisure,family,tokyo
+user14,Hotel Cerezo,8,2320,0.128205128,0.512820513,0.102564103,0,0.256410256,leisure,couple,tokyo
+user14,APA Hotel Ueno-Ekimae,8,3093,0.042553191,0.425531915,0.021276596,0.085106383,0.425531915,business,solo,tokyo
+user14,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user14,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user15,Hotel Villa Fontaine Tokyo-Otemachi,8,3248,0.057971014,0.289855072,0.289855072,0.072463768,0.289855072,leisure,couple,tokyo
+user15,Harumi Grand Hotel,7,2628,0.128205128,0.512820513,0,0.025641026,0.333333333,leisure,family,tokyo
+user15,HOTEL MYSTAYS Ueno Iriyaguchi,8,3155,0.076923077,0.384615385,0.096153846,0.057692308,0.384615385,leisure,couple,tokyo
+user15,Senju Tamuraya,9,1330,0.205882353,0.588235294,0,0.058823529,0.147058824,leisure,solo,tokyo
+user15,Annex Check In Shimbashi,7.5,2666,0.192771084,0.240963855,0.240963855,0.084337349,0.240963855,leisure,solo,tokyo
+user15,Forest Hongo,8,6614,0.142857143,0.571428571,0.028571429,0,0.257142857,business,family,tokyo
+user15,APA Hotel Roppongi Ekimae,8,8042,0.186813187,0.21978022,0.21978022,0.153846154,0.21978022,business,friend,tokyo
+user15,APA Hotel Okachimachi Eki-Kita S,8,3341,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user15,Toyoko Inn Tokyo Akabane-eki Higashi-guchi Ichiban-gai,8,9754,0.196428571,0.357142857,0.267857143,0.017857143,0.160714286,leisure,friend,tokyo
+user15,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user15,Hotel Villa Fontaine Tokyo-Jimbocho,8,2377,0.105263158,0.350877193,0.087719298,0.105263158,0.350877193,business,solo,tokyo
+user15,Sotetsu Fresa Inn Tokyo Kamata,8,6496,0.142857143,0.25974026,0.25974026,0.077922078,0.25974026,leisure,friend,tokyo
+user15,Ryokan Katsutaro,8,6260,0.148148148,0.740740741,0,0,0.111111111,business,family,tokyo
+user15,Claska,8,19108,0.210526316,0.526315789,0,0,0.263157895,leisure,solo,tokyo
+user15,Sunshine City Prince Hotel,8,4392,0.146067416,0.224719101,0.202247191,0.202247191,0.224719101,business,couple,tokyo
+user15,Tokyo Kiba Hotel,8,1701,0.166666667,0.416666667,0.020833333,0.020833333,0.375,business,couple,tokyo
+user15,the b tokyo akasaka-mitsuke,8,6573,0.133333333,0.266666667,0.266666667,0.066666667,0.266666667,leisure,family,tokyo
+user15,Shinagawa Prince Hotel,8,10656,0.202898551,0.289855072,0.144927536,0.101449275,0.260869565,leisure,friend,tokyo
+user15,the b sangenjaya,7,5962,0.192982456,0.350877193,0.070175439,0.035087719,0.350877193,leisure,family,tokyo
+user15,APA Hotel Ginza-Takaracho,8,6805,0.139240506,0.253164557,0.126582278,0.227848101,0.253164557,business,friend,tokyo
+user15,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user16,Capsule Hotel Shibuya,7.5,2598,0.2,0.2,0.2,0.2,0.2,business,couple,tokyo
+user16,Hotel Sunroute Higashi Shinjuku,8,6650,0.116883117,0.25974026,0.25974026,0.103896104,0.25974026,business,family,tokyo
+user16,Hotel Lungwood,8,2877,0.096153846,0.384615385,0.230769231,0.019230769,0.269230769,leisure,solo,tokyo
+user16,Toyoko Inn Tokyo-eki Shin-Ohashi Mae,8,5412,0.27027027,0.540540541,0,0.027027027,0.162162162,leisure,friend,tokyo
+user16,Sotetsu Fresa Inn Hamamatsucho-Daimon,8,7795,0.225806452,0.322580645,0.048387097,0.080645161,0.322580645,leisure,family,tokyo
+user16,Hotel Shirobara Inn Asakusa,8,3341,0.125,0.25,0.15,0.25,0.225,leisure,couple,tokyo
+user16,Roppongi Hotel S,8,12620,0.202531646,0.253164557,0.253164557,0.088607595,0.202531646,business,family,tokyo
+user16,Hundred Stay Tokyo Shinjuku,8,9255,0.142857143,0.357142857,0.107142857,0.053571429,0.339285714,business,family,tokyo
+user16,Dai-ichi Hotel Tokyo Seafort,8,5614,0.311111111,0.444444444,0.022222222,0.088888889,0.133333333,leisure,family,tokyo
+user16,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user16,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user16,Claska,8,34909,0.210526316,0.526315789,0,0,0.263157895,business,friend,tokyo
+user16,Holiday View Inn,8,4640,0.115942029,0.289855072,0.231884058,0.072463768,0.289855072,business,couple,tokyo
+user16,Train Hostel HOKUTOSEI,8.5,2938,0.666666667,0.222222222,0,0.111111111,0,leisure,friend,tokyo
+user16,Space Hostel Tokyo,9,1980,0.1,0.5,0,0.05,0.35,business,couple,tokyo
+user16,APA Hotel Sugamo Ekimae,9,2474,0.076923077,0.384615385,0.269230769,0.038461538,0.230769231,business,couple,tokyo
+user16,Toyoko Inn Tokyo Asakusa Senzoku Tsukuba Express,8,9487,0.160714286,0.357142857,0.107142857,0.089285714,0.285714286,leisure,friend,tokyo
+user16,Hotel Monterey Lasoeur Ginza,8,2877,0.176470588,0.235294118,0.152941176,0.2,0.235294118,business,solo,tokyo
+user16,Courtyard by Marriott Tokyo Station,8,6125,0.210526316,0.210526316,0.157894737,0.210526316,0.210526316,leisure,solo,tokyo
+user16,Global Cabin Gotanda,8,1884,0.074626866,0.298507463,0.298507463,0.044776119,0.28358209,business,solo,tokyo
+user16,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user16,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user16,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user17,Tokyo Green Palace,8,4961,0.125,0.416666667,0.020833333,0.020833333,0.416666667,leisure,couple,tokyo
+user17,Tokyu Stay Nishi Shinjuku,8,7145,0.192982456,0.350877193,0.105263158,0.052631579,0.298245614,leisure,family,tokyo
+user17,Centurion Hotel Ueno,8,3402,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,business,couple,tokyo
+user17,Hotel Lumiere Nishikasai,8,5289,0.129032258,0.322580645,0.193548387,0.032258065,0.322580645,leisure,family,tokyo
+user17,Hyatt Regency Tokyo,9,8410,0.266666667,0.266666667,0.12,0.08,0.266666667,business,couple,tokyo
+user17,Tokyu Stay Yoga,8,6805,0.219512195,0.487804878,0.073170732,0,0.219512195,leisure,family,tokyo
+user17,Hotel JAL City Tamachi Tokyo,8,2753,0.280701754,0.350877193,0.01754386,0.035087719,0.315789474,leisure,couple,tokyo
+user17,Hotel Yamayuri,7,5227,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,family,tokyo
+user17,Kichijoji Tokyu REI Hotel,8,4593,0.149425287,0.229885057,0.229885057,0.16091954,0.229885057,business,couple,tokyo
+user17,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user17,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user17,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user17,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user17,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user17,Four Seasons Hotel Tokyo at Marunouchi,8.5,22435,0.206185567,0.206185567,0.206185567,0.175257732,0.206185567,leisure,couple,tokyo
+user17,APA Hotel Ginza-Takaracho,8,6341,0.139240506,0.253164557,0.126582278,0.227848101,0.253164557,leisure,family,tokyo
+user17,Hilton Tokyo Bay,8.5,9031,0.266666667,0.633333333,0.033333333,0,0.066666667,leisure,couple,tokyo
+user17,Hotel Mid In Meguro Ekimae,8,7423,0.079365079,0.317460317,0.238095238,0.047619048,0.317460317,business,friend,tokyo
+user17,Hotel Mid In Akabane Ekimae,8,6211,0.136986301,0.273972603,0.273972603,0.04109589,0.273972603,business,family,tokyo
+user17,Asakusa View Hotel,8,10517,0.114285714,0.285714286,0.157142857,0.228571429,0.214285714,leisure,friend,tokyo
+user17,Shinjuku Washington Hotel,8,7980,0.243902439,0.243902439,0.097560976,0.170731707,0.243902439,leisure,family,tokyo
+user17,Hotel Sunroute Shinagawa Seaside,8,10783,0.162790698,0.465116279,0.046511628,0.046511628,0.279069767,leisure,family,tokyo
+user17,Hotel Palace Japan,9,3155,0.238095238,0.476190476,0,0,0.285714286,business,family,tokyo
+user17,APA Hotel Akihabara-Ekimae,8,2784,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,business,solo,tokyo
+user17,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user17,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user18,Hotel Listel Shinjuku,7,7795,0.106666667,0.266666667,0.266666667,0.093333333,0.266666667,leisure,friend,tokyo
+user18,Shibuya Tobu Hotel,8,5011,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,tokyo
+user18,Oriental Hotel Tokyo Bay,9,5837,0.272727273,0.454545455,0.045454545,0.068181818,0.159090909,leisure,family,tokyo
+user18,Toyoko Inn Tokyo Yamanote-sen Otsuka-eki Kita-guchi No.2,8,6213,0.06557377,0.327868852,0.196721311,0.081967213,0.327868852,leisure,friend,tokyo
+user18,Hotel Villa Fontaine Tokyo-Kayabacho,8,2366,0.236363636,0.363636364,0.018181818,0.018181818,0.363636364,business,solo,tokyo
+user18,Toyoko Inn Tokyo Tozai-Sen Nishi-kasai,8,5412,0.1,0.333333333,0.2,0.033333333,0.333333333,business,friend,tokyo
+user18,Hotel Risveglio Akasaka,9,6765,0.142857143,0.25974026,0.25974026,0.077922078,0.25974026,leisure,family,tokyo
+user18,Koraku Garden Hotel,7.5,2372,0.055555556,0.37037037,0.111111111,0.092592593,0.37037037,business,couple,tokyo
+user18,APA Hotel Tokyo Shiomi Ekimae,8,2103,0.260869565,0.52173913,0,0.043478261,0.173913043,leisure,solo,tokyo
+user18,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user18,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user18,Kichijoji Daiichi Hotel,8,6723,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,leisure,family,tokyo
+user18,Rihga Royal Hotel Tokyo,9,12635,0.189189189,0.540540541,0.027027027,0,0.243243243,leisure,friend,tokyo
+user18,Hotel Villa Fontaine Tokyo-Otemachi,8,6496,0.057971014,0.289855072,0.289855072,0.072463768,0.289855072,leisure,friend,tokyo
+user18,Toyoko Inn Tokyo Kanda Akihabara,8,2439,0.158730159,0.317460317,0.19047619,0.015873016,0.317460317,business,solo,tokyo
+user18,the b tokyo akasaka-mitsuke,8,6573,0.133333333,0.266666667,0.266666667,0.066666667,0.266666667,business,family,tokyo
+user18,Belle Via Tokyo,7,3897,0.075,0.5,0.025,0.025,0.375,business,friend,tokyo
+user18,Sotetsu Fresa Inn Nihombashi Kayabacho,8,6496,0.203703704,0.37037037,0.018518519,0.037037037,0.37037037,leisure,family,tokyo
+user18,APA Hotel Shintomicho-Ekimae,8,5258,0.23880597,0.298507463,0.074626866,0.089552239,0.298507463,business,family,tokyo
+user18,APA Hotel Shintomicho-Ekimae,8,2165,0.23880597,0.298507463,0.074626866,0.089552239,0.298507463,leisure,solo,tokyo
+user18,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user18,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user19,Comfort Hotel Tokyo Higashi Nihombashi,8,2691,0.171875,0.3125,0.1875,0.015625,0.3125,business,solo,tokyo
+user19,the b Roppongi,8,7114,0.164705882,0.235294118,0.235294118,0.129411765,0.235294118,leisure,family,tokyo
+user19,Hotel Edoya,8,2131,0.08,0.266666667,0.266666667,0.12,0.266666667,leisure,solo,tokyo
+user19,APA Hotel Shintomicho-Ekimae,8,5258,0.23880597,0.298507463,0.074626866,0.089552239,0.298507463,business,friend,tokyo
+user19,Sunshine City Prince Hotel,8,8166,0.146067416,0.224719101,0.202247191,0.202247191,0.224719101,leisure,family,tokyo
+user19,Sunshine City Prince Hotel,8,4392,0.146067416,0.224719101,0.202247191,0.202247191,0.224719101,business,couple,tokyo
+user19,the b tokyo akasaka-mitsuke,8,6573,0.133333333,0.266666667,0.266666667,0.066666667,0.266666667,leisure,family,tokyo
+user19,Keikyu EX Inn Shinagawa,8.5,6264,0.2,0.285714286,0.142857143,0.1,0.271428571,business,family,tokyo
+user19,Ochanomizu St. HILLS HOTEL,8,6650,0.123287671,0.273972603,0.191780822,0.136986301,0.273972603,leisure,family,tokyo
+user19,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user19,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user19,Ryokan Katsutaro,8,6260,0.148148148,0.740740741,0,0,0.111111111,leisure,family,tokyo
+user19,New Otani Inn Tokyo,8,5877,0.166666667,0.37037037,0.018518519,0.074074074,0.37037037,leisure,friend,tokyo
+user19,Tokyu Stay Aoyama Premier,8,4052,0.109090909,0.363636364,0.090909091,0.163636364,0.272727273,leisure,solo,tokyo
+user19,Annex Katsutaro Ryokan,8.5,3835,0.105263158,0.526315789,0.078947368,0.026315789,0.263157895,business,family,tokyo
+user19,the b Roppongi,8,2498,0.164705882,0.235294118,0.235294118,0.129411765,0.235294118,leisure,solo,tokyo
+user19,YMCA Asia Youth Center,7,3805,0.169811321,0.377358491,0.037735849,0.037735849,0.377358491,leisure,family,tokyo
+user19,HOTEL MYSTAYS PREMIER Omori,8,3619,0.205882353,0.294117647,0.132352941,0.073529412,0.294117647,leisure,couple,tokyo
+user19,Via Inn Asakusa,8,2134,0.206896552,0.344827586,0.034482759,0.224137931,0.189655172,business,solo,tokyo
+user19,Hotel Monterey Akasaka,8,5444,0.111111111,0.277777778,0.277777778,0.055555556,0.277777778,business,solo,tokyo
+user19,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user19,APA Hotel Ginza-Takaracho,8,6805,0.139240506,0.253164557,0.126582278,0.227848101,0.253164557,business,friend,tokyo
+user2,APA Hotel Keisei Ueno Ekimae,8,7423,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,leisure,family,tokyo
+user2,Tokyo Hutte,8.5,1732,0.20754717,0.377358491,0.037735849,0.113207547,0.264150943,business,couple,tokyo
+user2,Toyoko Inn Tokyo Kamata Higashi-guchi,7,5746,0.135135135,0.27027027,0.27027027,0.054054054,0.27027027,leisure,family,tokyo
+user2,Ryokan Sansuiso,9,2103,0.112676056,0.281690141,0.281690141,0.042253521,0.281690141,business,solo,tokyo
+user2,Sakura Hostel Asakusa,8,3155,0.147058824,0.294117647,0.132352941,0.205882353,0.220588235,leisure,couple,tokyo
+user2,Hotel Sunroute Asakusa,8,6805,0.13253012,0.240963855,0.144578313,0.240963855,0.240963855,leisure,friend,tokyo
+user2,Pearl Hotel Kasai,7,5753,0.151515152,0.303030303,0.272727273,0.015151515,0.257575758,business,family,tokyo
+user2,Tokyu Stay Shibuya Shin-Minamiguchi,8.5,7826,0.180722892,0.240963855,0.240963855,0.096385542,0.240963855,leisure,family,tokyo
+user2,Richmond Hotel Premier Tokyo Oshiage,9,5258,0.245614035,0.350877193,0.035087719,0.105263158,0.263157895,business,family,tokyo
+user2,Centurion Hotel Residential Cabin Tower,8.5,866,0.155844156,0.25974026,0.25974026,0.064935065,0.25974026,leisure,solo,tokyo
+user2,Kichijoji Daiichi Hotel,8,3984,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,business,couple,tokyo
+user2,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user2,Tokyu Stay Gotanda,8.5,2159,0.075757576,0.303030303,0.303030303,0.045454545,0.272727273,leisure,solo,tokyo
+user2,Tokyo Marriott Hotel,8,9983,0.2,0.5,0.075,0.025,0.2,leisure,couple,tokyo
+user2,Richmond Hotel Tokyo Musashino,8,2629,0.377358491,0.377358491,0.037735849,0.018867925,0.188679245,business,solo,tokyo
+user2,Celestine Hotel,9,4222,0.3125,0.3125,0.03125,0.03125,0.3125,leisure,solo,tokyo
+user2,Hotel East 21 Tokyo,8.5,6310,0.2,0.5,0.025,0.025,0.25,business,family,tokyo
+user2,Premier Hotel Cabin Shinjuku,8,6681,0.130434783,0.217391304,0.217391304,0.217391304,0.217391304,business,friend,tokyo
+user2,Hilton Tokyo Hotel,8.5,24633,0.266666667,0.266666667,0.106666667,0.093333333,0.266666667,business,friend,tokyo
+user2,Guest House Shinagawa-shuku,8,4207,0.170731707,0.487804878,0.073170732,0,0.268292683,business,friend,tokyo
+user2,First Cabin Atagoyama,8,1732,0.209876543,0.24691358,0.24691358,0.049382716,0.24691358,business,solo,tokyo
+user2,Citadines Shinjuku Tokyo,9,6614,0.128571429,0.285714286,0.271428571,0.028571429,0.285714286,business,solo,tokyo
+user2,Shiba Park Hotel 151,9,8073,0.245901639,0.327868852,0.049180328,0.049180328,0.327868852,business,family,tokyo
+user2,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user2,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user2,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user20,Shinjuku Washington Hotel,8,7980,0.243902439,0.243902439,0.097560976,0.170731707,0.243902439,business,family,tokyo
+user20,Omori Tokyu REI Hotel,8,2444,0.151898734,0.253164557,0.253164557,0.088607595,0.253164557,leisure,solo,tokyo
+user20,Hotel Monterey Akasaka,8,6533,0.111111111,0.277777778,0.277777778,0.055555556,0.277777778,business,couple,tokyo
+user20,Akihabara Hotel 3000,8,5011,0.071428571,0.285714286,0.285714286,0.071428571,0.285714286,leisure,friend,tokyo
+user20,APA Hotel - Higashishinjuku Kabukicho Higashi,8,6805,0.1125,0.25,0.25,0.1375,0.25,leisure,family,tokyo
+user20,HOTEL MYSTAYS Ochanomizu Conference Center,8,2413,0.111111111,0.222222222,0.222222222,0.222222222,0.222222222,leisure,solo,tokyo
+user20,Hotel Grand Fresa Akasaka,8.5,2366,0.1,0.285714286,0.285714286,0.042857143,0.285714286,business,solo,tokyo
+user20,Hotel Edoya,8,5070,0.08,0.266666667,0.266666667,0.12,0.266666667,business,friend,tokyo
+user20,Tokyu Stay Yoga,8,2877,0.219512195,0.487804878,0.073170732,0,0.219512195,business,solo,tokyo
+user20,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user20,Hotel Lumiere Kasai,8,3217,0.138461538,0.307692308,0.276923077,0.015384615,0.261538462,business,couple,tokyo
+user20,Hotel Asia Center of Japan,8,3248,0.228070175,0.350877193,0.087719298,0.052631579,0.280701754,leisure,solo,tokyo
+user20,APA Hotel TKP Nippori Ekimae,8,4949,0.096153846,0.384615385,0.230769231,0,0.288461538,business,friend,tokyo
+user20,Toyoko Inn Tokyo Yamanote-sen Otsuka-eki Kita-guchi No.2,8,3107,0.06557377,0.327868852,0.196721311,0.081967213,0.327868852,leisure,family,tokyo
+user20,Ueno First City Hotel,8,6186,0.120879121,0.21978022,0.21978022,0.21978022,0.21978022,leisure,friend,tokyo
+user20,Toyoko Inn Tokyo Akabane-eki Higashi-guchi Ichiban-gai,8,2439,0.196428571,0.357142857,0.267857143,0.017857143,0.160714286,business,solo,tokyo
+user20,Richmond Hotel Premier Tokyo Oshiage,9,5258,0.245614035,0.350877193,0.035087719,0.105263158,0.263157895,leisure,family,tokyo
+user20,Rihga Royal Hotel Tokyo,9,6171,0.189189189,0.540540541,0.027027027,0,0.243243243,business,solo,tokyo
+user20,Toyoko Inn Uguisudani,8,3107,0.132075472,0.377358491,0.150943396,0,0.339622642,leisure,couple,tokyo
+user20,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user20,HOTEL MYSTAYS Asakusa bashi,8,4640,0.105263158,0.350877193,0.192982456,0,0.350877193,business,family,tokyo
+user20,K's House Tokyo - Backpackers Hostel,9,3495,0.173913043,0.434782609,0.043478261,0.02173913,0.326086957,leisure,family,tokyo
+user20,Keio Presso Inn Ikebukuro,8,4949,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,leisure,couple,tokyo
+user20,Tokyo Guest House Itabashi-juku,9,4330,0.108108108,0.540540541,0.054054054,0.027027027,0.27027027,leisure,friend,tokyo
+user20,Centurion Hotel Ueno,8,10207,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,business,family,tokyo
+user20,IRORI NIHONBASHI HOSTEL and KITCHEN,9,852,0.181818182,0.363636364,0.072727273,0.018181818,0.363636364,business,solo,tokyo
+user20,Daiwa Roynet Hotel Ginza,9,11738,0.222222222,0.222222222,0.133333333,0.2,0.222222222,leisure,family,tokyo
+user20,Tokyo Hutte,8.5,3464,0.20754717,0.377358491,0.037735849,0.113207547,0.264150943,leisure,friend,tokyo
+user20,Chiyoda Inn,9,5939,0.285714286,0.408163265,0,0.040816327,0.265306122,leisure,friend,tokyo
+user20,Smile Hotel Sugamo,8,4887,0.096153846,0.384615385,0.25,0.038461538,0.230769231,business,friend,tokyo
+user20,Best Western Tokyo Nishikasai,8,2645,0.14516129,0.322580645,0.193548387,0.016129032,0.322580645,business,couple,tokyo
+user20,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user21,Omori Tokyu REI Hotel,8,2444,0.151898734,0.253164557,0.253164557,0.088607595,0.253164557,business,solo,tokyo
+user21,APA Hotel TKP Nippori Ekimae,8,4949,0.096153846,0.384615385,0.230769231,0,0.288461538,business,friend,tokyo
+user21,Kagaribi Kitasenjyu Guesthouse,9,4176,0.101449275,0.289855072,0.289855072,0.043478261,0.275362319,leisure,friend,tokyo
+user21,Nakano Sunplaza Hotel,8,6465,0.154761905,0.238095238,0.238095238,0.130952381,0.238095238,business,couple,tokyo
+user21,Hotel Nihonbashi Saibo,8,5345,0.125,0.3125,0.234375,0.015625,0.3125,leisure,friend,tokyo
+user21,Hotel Lungwood,8,5104,0.096153846,0.384615385,0.230769231,0.019230769,0.269230769,business,family,tokyo
+user21,Shinjuku Washington Hotel,8,3588,0.243902439,0.243902439,0.097560976,0.170731707,0.243902439,business,solo,tokyo
+user21,YMCA Asia Youth Center,7,5815,0.169811321,0.377358491,0.037735849,0.037735849,0.377358491,leisure,friend,tokyo
+user21,Richmond Hotel Tokyo Mejiro,8,2908,0.15,0.5,0.05,0.025,0.275,business,couple,tokyo
+user21,Hotel Rose Garden Shinjuku,8,4040,0.23255814,0.23255814,0.139534884,0.162790698,0.23255814,leisure,couple,tokyo
+user21,Best Western Tokyo Nishikasai,8,5289,0.14516129,0.322580645,0.193548387,0.016129032,0.322580645,business,friend,tokyo
+user21,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user21,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user22,Urayasu Brighton Hotel Tokyo Bay,9,8351,0.304347826,0.434782609,0.043478261,0.065217391,0.152173913,business,family,tokyo
+user22,Tokyo Hutte,8.5,1732,0.20754717,0.377358491,0.037735849,0.113207547,0.264150943,business,couple,tokyo
+user22,Shiba Park Hotel,8,7423,0.245901639,0.327868852,0.049180328,0.049180328,0.327868852,business,friend,tokyo
+user22,Toyoko Inn Tokyo Asakusa Senzoku Tsukuba Express,8,4744,0.160714286,0.357142857,0.107142857,0.089285714,0.285714286,leisure,couple,tokyo
+user22,Asakusa Hotel Wasou,8,2815,0.171875,0.3125,0.09375,0.1875,0.234375,leisure,couple,tokyo
+user22,Capsule and Sauna Oriental,8,1114,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,leisure,solo,tokyo
+user22,Hotel Gracery Tamachi,8.5,3805,0.295081967,0.327868852,0.016393443,0.032786885,0.327868852,leisure,couple,tokyo
+user22,K's House Tokyo Oasis - Quality Hostel,9,2846,0.148648649,0.27027027,0.148648649,0.216216216,0.216216216,leisure,couple,tokyo
+user22,Japonica Lodge Asakusa,8,3093,0.242424242,0.303030303,0.03030303,0.196969697,0.227272727,leisure,friend,tokyo
+user22,Sotetsu Fresa Inn Nihombashi Kayabacho,8,3248,0.203703704,0.37037037,0.018518519,0.037037037,0.37037037,leisure,solo,tokyo
+user22,Hotel New Otani Tokyo Garden Tower,9,6247,0.150943396,0.377358491,0.075471698,0.018867925,0.377358491,leisure,solo,tokyo
+user22,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user22,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user23,Haru Hotel,7,5258,0.126984127,0.317460317,0.174603175,0.095238095,0.285714286,business,friend,tokyo
+user23,APA Hotel Kodemmacho-ekimae,8,5258,0.290322581,0.322580645,0.048387097,0.016129032,0.322580645,business,family,tokyo
+user23,Annex Check In Shimbashi,7.5,6941,0.192771084,0.240963855,0.240963855,0.084337349,0.240963855,business,friend,tokyo
+user23,Train Hostel HOKUTOSEI,8.5,2938,0.666666667,0.222222222,0,0.111111111,0,leisure,friend,tokyo
+user23,Hotel Mid In Akabane Ekimae,8,6211,0.136986301,0.273972603,0.273972603,0.04109589,0.273972603,business,family,tokyo
+user23,Richmond Hotel Tokyo Musashino,8,3402,0.377358491,0.377358491,0.037735849,0.018867925,0.188679245,business,couple,tokyo
+user23,Hotel Route-Inn Gotanda,7,8429,0.081081081,0.540540541,0,0.054054054,0.324324324,business,family,tokyo
+user23,APA Hotel Asakusabashi-Ekikita,8,5568,0.106382979,0.425531915,0.14893617,0.021276596,0.29787234,leisure,friend,tokyo
+user23,the b sangenjaya,7,5962,0.192982456,0.350877193,0.070175439,0.035087719,0.350877193,business,family,tokyo
+user23,Shinjuku Kuyakusho-mae Capsule Hotel,8,2784,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,couple,tokyo
+user23,Toyoko Inn Tokyo Asakusa Senzoku Tsukuba Express,8,9487,0.160714286,0.357142857,0.107142857,0.089285714,0.285714286,leisure,friend,tokyo
+user23,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user23,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user23,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user23,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user24,Kuretake-Inn Tokyo Funabori,8,2660,0.184210526,0.526315789,0.026315789,0.026315789,0.236842105,business,couple,tokyo
+user24,Hotel Lungwood,8,6186,0.096153846,0.384615385,0.230769231,0.019230769,0.269230769,business,friend,tokyo
+user24,Kichijoji Tokyu REI Hotel,8,3480,0.149425287,0.229885057,0.229885057,0.16091954,0.229885057,leisure,solo,tokyo
+user24,Senju Tamuraya,9,2351,0.205882353,0.588235294,0,0.058823529,0.147058824,business,couple,tokyo
+user24,House Ikebukuro,9,4825,0.103896104,0.25974026,0.25974026,0.116883117,0.25974026,leisure,friend,tokyo
+user24,Tokyo Guest House Itabashi-juku,9,2165,0.108108108,0.540540541,0.054054054,0.027027027,0.27027027,leisure,couple,tokyo
+user24,HOTEL MYSTAYS Ueno Iriyaguchi,8,3155,0.076923077,0.384615385,0.096153846,0.057692308,0.384615385,business,couple,tokyo
+user24,Dai-ichi Hotel Ryogoku,8,5104,0.195652174,0.434782609,0.043478261,0,0.326086957,business,family,tokyo
+user24,Toyoko Inn Tokyo Shinjuku Kabuki-cho,8,2606,0.090909091,0.227272727,0.227272727,0.227272727,0.227272727,leisure,solo,tokyo
+user24,Kichijoji Tokyu REI Hotel,8,4593,0.149425287,0.229885057,0.229885057,0.16091954,0.229885057,business,couple,tokyo
+user24,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user24,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user25,Lotte City Hotel Kinshicho,8,5345,0.127906977,0.23255814,0.23255814,0.174418605,0.23255814,business,solo,tokyo
+user25,Hotel Gracery Tamachi,8.5,3805,0.295081967,0.327868852,0.016393443,0.032786885,0.327868852,business,couple,tokyo
+user25,Smi:re Stay Tokyo,9,5089,0.171428571,0.571428571,0,0,0.257142857,business,couple,tokyo
+user25,APA Hotel Tokyo Shiomi Ekimae,8,2103,0.260869565,0.52173913,0,0.043478261,0.173913043,leisure,solo,tokyo
+user25,Keikyu EX Inn Shinagawa,8.5,6264,0.2,0.285714286,0.142857143,0.1,0.271428571,leisure,family,tokyo
+user25,Ueno First City Hotel,8,6186,0.120879121,0.21978022,0.21978022,0.21978022,0.21978022,business,friend,tokyo
+user25,APA Hotel Hanzomon Hirakawacho,8,4640,0.166666667,0.37037037,0.055555556,0.037037037,0.37037037,leisure,friend,tokyo
+user25,K's House Tokyo Oasis - Quality Hostel,9,4702,0.148648649,0.27027027,0.148648649,0.216216216,0.216216216,leisure,friend,tokyo
+user25,Smile Hotel Nihombashi Mitsukoshimae,8,2165,0.222222222,0.277777778,0.083333333,0.138888889,0.277777778,leisure,couple,tokyo
+user25,Hotel New Otani Tokyo Garden Tower,9,6247,0.150943396,0.377358491,0.075471698,0.018867925,0.377358491,business,couple,tokyo
+user25,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user26,Hotel Villa Fontaine Tokyo-Otemachi,8,3093,0.057971014,0.289855072,0.289855072,0.072463768,0.289855072,leisure,solo,tokyo
+user26,Shibuya Tokyu REI Hotel,8,10424,0.2,0.2,0.2,0.2,0.2,leisure,friend,tokyo
+user26,Via Inn Asakusa,8,2660,0.206896552,0.344827586,0.034482759,0.224137931,0.189655172,business,couple,tokyo
+user26,APA Hotel Sugamo Ekimae,9,2474,0.076923077,0.384615385,0.269230769,0.038461538,0.230769231,leisure,couple,tokyo
+user26,Book And Bed Tokyo,8.5,1603,0.139784946,0.215053763,0.215053763,0.215053763,0.215053763,leisure,couple,tokyo
+user26,K's House Tokyo Oasis - Quality Hostel,9,3805,0.148648649,0.27027027,0.148648649,0.216216216,0.216216216,business,family,tokyo
+user26,Urayasu Beaufort Hotel,7,4226,0.265306122,0.408163265,0.102040816,0.020408163,0.204081633,leisure,solo,tokyo
+user26,Richmond Hotel Premier Tokyo Oshiage,9,5258,0.245614035,0.350877193,0.035087719,0.105263158,0.263157895,leisure,family,tokyo
+user26,HOTEL THE HOTEL (Adult Only),8,19610,0.2,0.2,0.2,0.2,0.2,business,friend,tokyo
+user26,Hotel Asia Center of Japan,8,3248,0.228070175,0.350877193,0.087719298,0.052631579,0.280701754,leisure,solo,tokyo
+user26,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user27,Suidobashi Grand Hotel,7,8819,0.20754717,0.377358491,0,0.132075472,0.283018868,leisure,friend,tokyo
+user27,Zabutton hostel,9,4677,0.333333333,0.333333333,0.083333333,0.016666667,0.233333333,leisure,friend,tokyo
+user27,Hotel Risveglio Akasaka,9,6765,0.142857143,0.25974026,0.25974026,0.077922078,0.25974026,business,family,tokyo
+user27,Holiday View Inn,8,1392,0.115942029,0.289855072,0.231884058,0.072463768,0.289855072,leisure,solo,tokyo
+user27,HOTEL MYSTAYS Ueno Iriyaguchi,8,5048,0.076923077,0.384615385,0.096153846,0.057692308,0.384615385,leisure,family,tokyo
+user27,APA Hotel Nihombashi Hamacho-eki Minami,8,5506,0.25,0.555555556,0,0.027777778,0.166666667,leisure,friend,tokyo
+user27,Hotel Shirobara Inn Asakusa,8,6013,0.125,0.25,0.15,0.25,0.225,leisure,family,tokyo
+user27,Toyoko Inn Tokyo-eki Shin-Ohashi Mae,8,5078,0.27027027,0.540540541,0,0.027027027,0.162162162,leisure,family,tokyo
+user27,Shibuya Tokyu REI Hotel,8,10424,0.2,0.2,0.2,0.2,0.2,business,friend,tokyo
+user27,Shibuya Creston Hotel,8,10724,0.091954023,0.229885057,0.229885057,0.218390805,0.229885057,leisure,family,tokyo
+user27,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user27,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user27,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user28,APA Hotel Keisei Ueno Ekimae,8,3402,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,leisure,solo,tokyo
+user28,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user28,Sutton Place Hotel Ueno,8,7423,0.1,0.333333333,0.116666667,0.116666667,0.333333333,leisure,friend,tokyo
+user28,HOTEL MYSTAYS Haneda,9,3062,0.268292683,0.487804878,0.024390244,0,0.219512195,business,solo,tokyo
+user28,Daiwa Roynet Hotel Tokyo Osaki,9,4330,0.145833333,0.416666667,0.020833333,0.041666667,0.375,leisure,family,tokyo
+user28,Urbain Tokyo Haneda Kamata,8,2567,0.085714286,0.285714286,0.285714286,0.057142857,0.285714286,business,solo,tokyo
+user28,YMCA Asia Youth Center,7,3805,0.169811321,0.377358491,0.037735849,0.037735849,0.377358491,business,family,tokyo
+user28,FLEXSTAY INN Ekoda,7,2969,0.1875,0.416666667,0.1875,0,0.208333333,leisure,solo,tokyo
+user28,Hotel Sulata Shibuya Dougenzaka (Adult Only),7,13919,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,friend,tokyo
+user28,HOTEL MYSTAYS Ochanomizu Conference Center,8,2413,0.111111111,0.222222222,0.222222222,0.222222222,0.222222222,leisure,solo,tokyo
+user28,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user28,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user29,Hotel Mielparque Tokyo,8,5568,0.265625,0.3125,0.09375,0.015625,0.3125,leisure,friend,tokyo
+user29,Hotel Chinzanso Tokyo,9,10254,0.235294118,0.588235294,0,0.029411765,0.147058824,leisure,family,tokyo
+user29,APA Hotel Tsukiji-eki Minami,8,5104,0.237288136,0.338983051,0,0.084745763,0.338983051,leisure,family,tokyo
+user29,Hotel JAL City Tamachi Tokyo,8,2753,0.280701754,0.350877193,0.01754386,0.035087719,0.315789474,leisure,couple,tokyo
+user29,Hotel Listel Shinjuku,7,6959,0.106666667,0.266666667,0.266666667,0.093333333,0.266666667,business,family,tokyo
+user29,APA Hotel Nihombashi Hamacho-eki Minami,8,6496,0.25,0.555555556,0,0.027777778,0.166666667,leisure,family,tokyo
+user29,HOTEL MYSTAYS Ueno Inaricho,8,3229,0.088888889,0.444444444,0.022222222,0.177777778,0.266666667,business,couple,tokyo
+user29,APA Hotel Shintomicho-Ekikita,9,4949,0.196721311,0.327868852,0.081967213,0.06557377,0.327868852,business,family,tokyo
+user29,APA Hotel Shinjuku-Kabukicho Tower,8,3402,0.120879121,0.21978022,0.21978022,0.21978022,0.21978022,business,solo,tokyo
+user29,Tokyo Marriott Hotel,8,9983,0.2,0.5,0.075,0.025,0.2,business,couple,tokyo
+user29,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user29,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user3,APA Hotel Kanda Jimbocho Ekihigashi,8,2165,0.158730159,0.317460317,0.111111111,0.095238095,0.317460317,business,solo,tokyo
+user3,Hotel Monterey Lasoeur Ginza,8,2877,0.176470588,0.235294118,0.152941176,0.2,0.235294118,business,solo,tokyo
+user3,Nishitetsu Inn Kamata,9,3866,0.085714286,0.285714286,0.285714286,0.057142857,0.285714286,business,couple,tokyo
+user3,APA Hotel Higashi Shinjuku Kabukicho,8,3093,0.1125,0.25,0.25,0.1375,0.25,leisure,couple,tokyo
+user3,K's House Tokyo Oasis - Quality Hostel,9,4702,0.148648649,0.27027027,0.148648649,0.216216216,0.216216216,leisure,friend,tokyo
+user3,Hotel Mid In Akabane Ekimae,8,3922,0.136986301,0.273972603,0.273972603,0.04109589,0.273972603,business,couple,tokyo
+user3,Tokyu Stay Ginza,9,8692,0.202020202,0.202020202,0.202020202,0.191919192,0.202020202,business,family,tokyo
+user3,HOTEL MYSTAYS Gotanda Station,8,1670,0.1,0.285714286,0.285714286,0.042857143,0.285714286,leisure,solo,tokyo
+user3,HOTEL MYSTAYS Kanda,8,2372,0.175,0.25,0.25,0.075,0.25,leisure,solo,tokyo
+user3,"Shangri-La Hotel, Tokyo",9,32654,0.217391304,0.217391304,0.163043478,0.184782609,0.217391304,leisure,family,tokyo
+user3,APA Hotel Keisei Ueno Ekimae,8,3402,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,solo,tokyo
+user3,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user3,Nishitetsu Inn Shinjuku,8,8846,0.21978022,0.21978022,0.153846154,0.186813187,0.21978022,business,friend,tokyo
+user3,Zabutton hostel,9,2338,0.333333333,0.333333333,0.083333333,0.016666667,0.233333333,leisure,couple,tokyo
+user3,E Hotel Higashi Shinjuku,7.5,6712,0.105263158,0.263157895,0.263157895,0.105263158,0.263157895,leisure,family,tokyo
+user3,HOTEL MYSTAYS Kanda,8,2372,0.175,0.25,0.25,0.075,0.25,leisure,solo,tokyo
+user3,Grand Park Hotel Panex Tokyo,7.5,4578,0.123287671,0.273972603,0.273972603,0.054794521,0.273972603,leisure,friend,tokyo
+user3,Hotel Lumiere Nishikasai,8,2227,0.129032258,0.322580645,0.193548387,0.032258065,0.322580645,leisure,solo,tokyo
+user3,Hotel Lumiere Kasai,8,2227,0.138461538,0.307692308,0.276923077,0.015384615,0.261538462,business,solo,tokyo
+user3,Urbain Tokyo Haneda Kamata,8,2567,0.085714286,0.285714286,0.285714286,0.057142857,0.285714286,business,solo,tokyo
+user3,Oriental Hotel Tokyo Bay,9,5837,0.272727273,0.454545455,0.045454545,0.068181818,0.159090909,business,family,tokyo
+user3,Hotel Grand Arc Hanzomon,9,5800,0.12195122,0.487804878,0.073170732,0.024390244,0.292682927,business,family,tokyo
+user3,Hotel Coco Grand Ueno Shinobazu,9,15032,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,family,tokyo
+user3,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user30,Haneda Excel Hotel Tokyu,8.5,4949,0.29787234,0.425531915,0.14893617,0,0.127659574,business,solo,tokyo
+user30,Sun Members Tokyo Shinjuku,7,9527,0.294117647,0.294117647,0.044117647,0.073529412,0.294117647,business,friend,tokyo
+user30,Dai-ichi Hotel Tokyo Seafort,8,7331,0.311111111,0.444444444,0.022222222,0.088888889,0.133333333,leisure,friend,tokyo
+user30,Cerulean Tower Tokyu Hotel,9,12677,0.2,0.2,0.2,0.2,0.2,business,family,tokyo
+user30,APA Hotel Sugamo Ekimae,9,2474,0.076923077,0.384615385,0.269230769,0.038461538,0.230769231,business,couple,tokyo
+user30,Hotel Sunroute Shinagawa Seaside,8,10783,0.162790698,0.465116279,0.046511628,0.046511628,0.279069767,business,family,tokyo
+user30,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,leisure,couple,tokyo
+user30,Oriental Hotel Tokyo Bay,9,5258,0.272727273,0.454545455,0.045454545,0.068181818,0.159090909,leisure,couple,tokyo
+user30,Rihga Royal Hotel Tokyo,9,12635,0.189189189,0.540540541,0.027027027,0,0.243243243,business,friend,tokyo
+user30,Hotel Sunroute Ginza,8,2938,0.162790698,0.23255814,0.162790698,0.209302326,0.23255814,leisure,solo,tokyo
+user30,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user31,Hotel Monterey Hanzomon,8,2784,0.125,0.5,0.05,0.025,0.3,business,couple,tokyo
+user31,"The Strings by InterContinental, Tokyo",9,15280,0.166666667,0.277777778,0.180555556,0.097222222,0.277777778,leisure,family,tokyo
+user31,Hotel Lungwood,8,2877,0.096153846,0.384615385,0.230769231,0.019230769,0.269230769,business,solo,tokyo
+user31,Ryogoku View Hotel,8,3031,0.25,0.5,0.05,0,0.2,business,couple,tokyo
+user31,Tokyo Ueno New Izu Hotel,8,6310,0.14893617,0.212765957,0.212765957,0.212765957,0.212765957,leisure,friend,tokyo
+user31,Akasaka Excel Hotel Tokyu,8,12959,0.155844156,0.25974026,0.25974026,0.064935065,0.25974026,business,family,tokyo
+user31,HOTEL MYSTAYS Ueno Inaricho,8,3229,0.088888889,0.444444444,0.022222222,0.177777778,0.266666667,leisure,solo,tokyo
+user31,Hotel Villa Fontaine Tokyo-Roppongi,8,11061,0.171052632,0.263157895,0.263157895,0.039473684,0.263157895,leisure,friend,tokyo
+user31,Mitsui Garden Hotel Yotsuya,9,8661,0.127659574,0.425531915,0.127659574,0.021276596,0.29787234,business,friend,tokyo
+user31,Hotel Sunroute Shimbashi,8,3028,0.2,0.235294118,0.235294118,0.094117647,0.235294118,leisure,solo,tokyo
+user31,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user32,Tokyu Stay Suidobashi,9,2320,0.134615385,0.384615385,0.076923077,0.019230769,0.384615385,business,solo,tokyo
+user32,Toyoko Inn Tokyo Haneda Kuko No.1,8,10423,0.214285714,0.476190476,0.023809524,0,0.285714286,business,friend,tokyo
+user32,Hotel Sunroute Patio Omori,8,4825,0.222222222,0.37037037,0.074074074,0.037037037,0.296296296,business,friend,tokyo
+user32,Hotel Keihan Asakusa,8,5846,0.121621622,0.27027027,0.175675676,0.243243243,0.189189189,leisure,family,tokyo
+user32,HOTEL MYSTAYS Maihama,8,12620,0.5,0.416666667,0,0,0.083333333,leisure,friend,tokyo
+user32,Rihga Royal Hotel Tokyo,9,6171,0.189189189,0.540540541,0.027027027,0,0.243243243,leisure,solo,tokyo
+user32,APA Hotel Roppongi Ekimae,8,8042,0.186813187,0.21978022,0.21978022,0.153846154,0.21978022,business,friend,tokyo
+user32,ARTnSHELTER,8,820,0.166666667,0.555555556,0,0,0.277777778,business,solo,tokyo
+user32,Ochanomizu St. HILLS HOTEL,8,6650,0.123287671,0.273972603,0.191780822,0.136986301,0.273972603,business,family,tokyo
+user32,Best Western Tokyo Nishikasai,8,4918,0.14516129,0.322580645,0.193548387,0.016129032,0.322580645,leisure,family,tokyo
+user32,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user32,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user33,Hotel New Ueno,8,3455,0.102272727,0.227272727,0.215909091,0.227272727,0.227272727,business,solo,tokyo
+user33,Keio Presso Inn Ikebukuro,8,2629,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,leisure,solo,tokyo
+user33,Shinbashi Atagoyama Tokyu REI Hotel,7,3062,0.225806452,0.322580645,0.064516129,0.064516129,0.322580645,business,couple,tokyo
+user33,Hotel Mielparque Tokyo,8,2011,0.265625,0.3125,0.09375,0.015625,0.3125,leisure,solo,tokyo
+user33,Ueno Terminal Hotel,8,7275,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,leisure,family,tokyo
+user33,Centurion Cabin & Spa,9,2474,0.144736842,0.263157895,0.263157895,0.065789474,0.263157895,leisure,couple,tokyo
+user33,the b Roppongi,8,3681,0.164705882,0.235294118,0.235294118,0.129411765,0.235294118,business,couple,tokyo
+user33,Hotel Villa Fontaine Tokyo-hatchobori,8,3248,0.203389831,0.338983051,0.06779661,0.050847458,0.338983051,leisure,solo,tokyo
+user33,Keio Plaza Hotel Tokyo,8.5,11575,0.210526316,0.210526316,0.157894737,0.210526316,0.210526316,leisure,family,tokyo
+user33,Tokyo Ueno New Izu Hotel,8,3155,0.14893617,0.212765957,0.212765957,0.212765957,0.212765957,leisure,couple,tokyo
+user33,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user33,APA Hotel - Higashishinjuku Kabukicho Higashi,8,6805,0.1125,0.25,0.25,0.1375,0.25,business,family,tokyo
+user33,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user34,Centurion Cabin & Spa,9,2474,0.144736842,0.263157895,0.263157895,0.065789474,0.263157895,business,couple,tokyo
+user34,Tokiwa Hotel,8,2351,0.125,0.3125,0.3125,0.03125,0.21875,business,solo,tokyo
+user34,Hotel Shimbashi Sambankan,8,2666,0.19047619,0.238095238,0.238095238,0.095238095,0.238095238,business,solo,tokyo
+user34,Hilton Tokyo Bay,8.5,9031,0.266666667,0.633333333,0.033333333,0,0.066666667,business,couple,tokyo
+user34,Hundred Stay Tokyo Shinjuku,8,16406,0.142857143,0.357142857,0.107142857,0.053571429,0.339285714,business,friend,tokyo
+user34,Capsule Hotel Shibuya,7.5,2598,0.2,0.2,0.2,0.2,0.2,business,couple,tokyo
+user34,Hotel Shirobara Inn Asakusa,8,2672,0.125,0.25,0.15,0.25,0.225,business,solo,tokyo
+user34,Tokyo Green Palace,8,4961,0.125,0.416666667,0.020833333,0.020833333,0.416666667,leisure,couple,tokyo
+user34,Hotel Mielparque Tokyo,8,4918,0.265625,0.3125,0.09375,0.015625,0.3125,leisure,family,tokyo
+user34,APA Hotel - Higashishinjuku Kabukicho Higashi,8,6805,0.1125,0.25,0.25,0.1375,0.25,business,family,tokyo
+user34,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user34,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user35,APA Hotel Iidabashi Ekimae,8,4949,0.096153846,0.384615385,0.076923077,0.057692308,0.384615385,business,family,tokyo
+user35,APA Hotel Shibuya Dogenzakaue,7,7300,0.151162791,0.23255814,0.23255814,0.151162791,0.23255814,business,friend,tokyo
+user35,Hotel Grand Palace,8,5622,0.102040816,0.408163265,0.040816327,0.040816327,0.408163265,business,solo,tokyo
+user35,APA Hotel Keisei Ueno Ekimae,8,8042,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,friend,tokyo
+user35,Asakusa Central Hotel,8,4021,0.162790698,0.23255814,0.139534884,0.23255814,0.23255814,leisure,family,tokyo
+user35,APA Hotel Shimbashi Toranomon,8,6805,0.202531646,0.253164557,0.253164557,0.037974684,0.253164557,business,friend,tokyo
+user35,K's House Tokyo Oasis - Quality Hostel,9,2846,0.148648649,0.27027027,0.148648649,0.216216216,0.216216216,business,couple,tokyo
+user35,Hotel Cerezo,8,4640,0.128205128,0.512820513,0.102564103,0,0.256410256,leisure,friend,tokyo
+user35,Hyatt Regency Tokyo,9,8410,0.266666667,0.266666667,0.12,0.08,0.266666667,business,couple,tokyo
+user35,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user35,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user36,Hotel Villa Fontaine Tokyo-Ueno Okachimachi,8,3248,0.086956522,0.434782609,0,0.130434783,0.347826087,business,couple,tokyo
+user36,Hotel Villa Fontaine Tokyo-hatchobori,8,3248,0.203389831,0.338983051,0.06779661,0.050847458,0.338983051,business,solo,tokyo
+user36,Ai Hotel Nihonbashi,8,3820,0.158730159,0.317460317,0.19047619,0.015873016,0.317460317,leisure,couple,tokyo
+user36,Rihga Royal Hotel Tokyo,9,6171,0.189189189,0.540540541,0.027027027,0,0.243243243,business,solo,tokyo
+user36,Ace Inn Shinjuku,7.5,4077,0.14893617,0.425531915,0.085106383,0,0.340425532,leisure,friend,tokyo
+user36,Shinjuku Washington Hotel,8,4949,0.243902439,0.243902439,0.097560976,0.170731707,0.243902439,leisure,couple,tokyo
+user36,Guest House Denchi,9,990,0.111111111,0.277777778,0.152777778,0.222222222,0.236111111,business,solo,tokyo
+user36,Kichijoji Tokyu REI Hotel,8,3480,0.149425287,0.229885057,0.229885057,0.16091954,0.229885057,business,solo,tokyo
+user36,Hotel Mandarin,8,7609,0.25,0.357142857,0.089285714,0.107142857,0.196428571,leisure,friend,tokyo
+user36,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user36,APA Hotel - Higashishinjuku Kabukicho Higashi,8,6805,0.1125,0.25,0.25,0.1375,0.25,business,family,tokyo
+user36,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user36,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user37,HOTEL MYSTAYS PREMIER Omori,8,3619,0.205882353,0.294117647,0.132352941,0.073529412,0.294117647,leisure,couple,tokyo
+user37,Hotel Kuramae,7,6557,0.162790698,0.465116279,0.023255814,0.046511628,0.302325581,business,friend,tokyo
+user37,H-Seven Ohtsuka (Adult Only),7,6124,0.051724138,0.344827586,0.206896552,0.051724138,0.344827586,business,friend,tokyo
+user37,Daiwa Roynet Hotel Ginza,9,5691,0.222222222,0.222222222,0.133333333,0.2,0.222222222,business,solo,tokyo
+user37,Smile Hotel Nihombashi Mitsukoshimae,8,4330,0.222222222,0.277777778,0.083333333,0.138888889,0.277777778,business,friend,tokyo
+user37,Toyoko Inn Tokyo Haneda Kuko No.1,8,10423,0.214285714,0.476190476,0.023809524,0,0.285714286,leisure,friend,tokyo
+user37,Koraku Garden Hotel,7.5,2372,0.055555556,0.37037037,0.111111111,0.092592593,0.37037037,business,couple,tokyo
+user37,Hotel Allamanda Aoyama Tokyo,9,15032,0.160714286,0.357142857,0.071428571,0.125,0.285714286,business,couple,tokyo
+user37,Roppongi Hotel S,8,12620,0.202531646,0.253164557,0.253164557,0.088607595,0.202531646,business,family,tokyo
+user37,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user37,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user38,First Cabin Atagoyama,8,1732,0.209876543,0.24691358,0.24691358,0.049382716,0.24691358,business,solo,tokyo
+user38,Richmond Hotel Premier Asakusa International,9,8166,0.134146341,0.243902439,0.158536585,0.243902439,0.219512195,business,family,tokyo
+user38,Shibuya Granbell Hotel,8,9372,0.2,0.2,0.2,0.2,0.2,leisure,family,tokyo
+user38,Hotel New Ueno,8,3455,0.102272727,0.227272727,0.215909091,0.227272727,0.227272727,leisure,solo,tokyo
+user38,Hotel Sunroute Higashi Shinjuku,8,6650,0.116883117,0.25974026,0.25974026,0.103896104,0.25974026,business,family,tokyo
+user38,HOTEL MYSTAYS Kameido,7,4887,0.155555556,0.444444444,0.066666667,0.044444444,0.288888889,leisure,friend,tokyo
+user38,the b tokyo akasaka-mitsuke,8,3286,0.133333333,0.266666667,0.266666667,0.066666667,0.266666667,business,solo,tokyo
+user38,FLEXSTAY INN Shirogane,7.5,4702,0.236842105,0.526315789,0,0.052631579,0.184210526,business,family,tokyo
+user38,HOTEL MYSTAYS Higashi Ikebukuro,8,2413,0.101449275,0.289855072,0.144927536,0.188405797,0.275362319,leisure,couple,tokyo
+user38,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user38,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user39,Hotel Grand Arc Hanzomon,9,5800,0.12195122,0.487804878,0.073170732,0.024390244,0.292682927,leisure,family,tokyo
+user39,The Peninsula Tokyo,9,23050,0.191489362,0.212765957,0.212765957,0.170212766,0.212765957,leisure,family,tokyo
+user39,APA Hotel Kanda Jimbocho Ekihigashi,8,4640,0.158730159,0.317460317,0.111111111,0.095238095,0.317460317,leisure,family,tokyo
+user39,Daiichi Hotel Tokyo,9,7887,0.161290323,0.215053763,0.215053763,0.193548387,0.215053763,business,family,tokyo
+user39,Star Inn,8.5,3681,0.234567901,0.24691358,0.024691358,0.24691358,0.24691358,leisure,friend,tokyo
+user39,Hotel Monterey Lasoeur Ginza,8,2877,0.176470588,0.235294118,0.152941176,0.2,0.235294118,business,solo,tokyo
+user39,Ueno Terminal Hotel,8,9540,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,leisure,friend,tokyo
+user39,Hotel Meigetsu,9,2413,0.205882353,0.588235294,0,0.058823529,0.147058824,business,family,tokyo
+user39,Hotel Axas Nihonbashi,9,6186,0.232142857,0.357142857,0.035714286,0.017857143,0.357142857,business,couple,tokyo
+user39,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user39,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user39,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user4,Hotel New Ueno,8,3455,0.102272727,0.227272727,0.215909091,0.227272727,0.227272727,business,solo,tokyo
+user4,the b tokyo ochanomizu,8,4330,0.106666667,0.266666667,0.24,0.12,0.266666667,leisure,family,tokyo
+user4,Imano Tokyo Hostel,8.5,7052,0.14893617,0.212765957,0.212765957,0.212765957,0.212765957,leisure,friend,tokyo
+user4,APA Hotel Okachimachi Eki-Kita S,8,6681,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,leisure,friend,tokyo
+user4,Grand Nikko Tokyo Daiba,9,7516,0.195652174,0.434782609,0.086956522,0.195652174,0.086956522,leisure,family,tokyo
+user4,HOTEL UNIZO Tokyo Shibuya,8,10541,0.2,0.2,0.2,0.2,0.2,leisure,friend,tokyo
+user4,New Otani Inn Tokyo,8,5877,0.166666667,0.37037037,0.018518519,0.074074074,0.37037037,leisure,friend,tokyo
+user4,Imperial Hotel Tokyo,9,60878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,family,tokyo
+user4,E Hotel Higashi Shinjuku,7.5,6712,0.105263158,0.263157895,0.263157895,0.105263158,0.263157895,business,friend,tokyo
+user4,YMCA Asia Youth Center,7,5815,0.169811321,0.377358491,0.037735849,0.037735849,0.377358491,leisure,friend,tokyo
+user4,Shiba Park Hotel 151,9,8073,0.245901639,0.327868852,0.049180328,0.049180328,0.327868852,leisure,family,tokyo
+user4,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user4,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user4,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user4,Shibuya Tobu Hotel,8,13307,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,friend,tokyo
+user4,Toyoko Inn Tokyo Akabane-eki Higashi-guchi Ichiban-gai,8,9754,0.196428571,0.357142857,0.267857143,0.017857143,0.160714286,leisure,friend,tokyo
+user4,Tokyu Stay Yotsuya,8,4949,0.12,0.4,0.16,0.02,0.3,business,couple,tokyo
+user4,Pearl Hotel Kasai,7,5753,0.151515152,0.303030303,0.272727273,0.015151515,0.257575758,leisure,family,tokyo
+user4,Hotel Lungwood,8,5104,0.096153846,0.384615385,0.230769231,0.019230769,0.269230769,business,family,tokyo
+user4,Shinjuku City Hotel N.U.T.S Tokyo,7,6217,0.155844156,0.25974026,0.25974026,0.064935065,0.25974026,leisure,friend,tokyo
+user4,Hotel Listel Shinjuku,7,7795,0.106666667,0.266666667,0.266666667,0.093333333,0.266666667,leisure,friend,tokyo
+user4,Hilton Tokyo Hotel,8.5,12316,0.266666667,0.266666667,0.106666667,0.093333333,0.266666667,leisure,couple,tokyo
+user4,Hotel Monterey Akasaka,8,5444,0.111111111,0.277777778,0.277777778,0.055555556,0.277777778,leisure,solo,tokyo
+user4,HOTEL MYSTAYS Maihama,8,12620,0.5,0.416666667,0,0,0.083333333,business,friend,tokyo
+user4,Claska,8,19108,0.210526316,0.526315789,0,0,0.263157895,business,solo,tokyo
+user40,Hotel Sunroute Plaza Shinjuku,8.5,4454,0.204081633,0.204081633,0.183673469,0.204081633,0.204081633,leisure,solo,tokyo
+user40,Ginza Capital Hotel Main,7.5,4276,0.296875,0.3125,0.03125,0.046875,0.3125,business,couple,tokyo
+user40,Tokyu Stay Shibuya Shin-Minamiguchi,8.5,7826,0.180722892,0.240963855,0.240963855,0.096385542,0.240963855,business,family,tokyo
+user40,APA Hotel Kodemmacho-ekimae,8,2784,0.290322581,0.322580645,0.048387097,0.016129032,0.322580645,leisure,couple,tokyo
+user40,Tokyu Stay Tsukiji,9,4021,0.275362319,0.289855072,0.014492754,0.130434783,0.289855072,leisure,solo,tokyo
+user40,Senju Tamuraya,9,4702,0.205882353,0.588235294,0,0.058823529,0.147058824,leisure,friend,tokyo
+user40,HOTEL MYSTAYS Ueno Iriyaguchi,8,2629,0.076923077,0.384615385,0.096153846,0.057692308,0.384615385,business,solo,tokyo
+user40,Hotel New Ueno,8,4117,0.102272727,0.227272727,0.215909091,0.227272727,0.227272727,business,couple,tokyo
+user40,Hikarihouse,8,4207,0.078947368,0.263157895,0.263157895,0.131578947,0.263157895,leisure,family,tokyo
+user40,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user41,Odakyu Hotel Century Southern Tower,9,15156,0.2,0.2,0.2,0.2,0.2,leisure,family,tokyo
+user41,Ikidane House,9,3712,0.142857143,0.571428571,0.057142857,0.057142857,0.171428571,leisure,family,tokyo
+user41,Akihabara Hotel 3000,8,5011,0.071428571,0.285714286,0.285714286,0.071428571,0.285714286,leisure,friend,tokyo
+user41,HOTEL MYSTAYS PREMIER Omori,8,3619,0.205882353,0.294117647,0.132352941,0.073529412,0.294117647,leisure,solo,tokyo
+user41,Global Cabin Gotanda,8,7535,0.074626866,0.298507463,0.298507463,0.044776119,0.28358209,business,friend,tokyo
+user41,Hotel Lumiere Kasai,8,6434,0.138461538,0.307692308,0.276923077,0.015384615,0.261538462,leisure,friend,tokyo
+user41,Sotetsu Fresa Inn Ochanomizu Jimbocho,9,3464,0.125,0.357142857,0.071428571,0.089285714,0.357142857,business,solo,tokyo
+user41,Ginza Creston,8,7689,0.255813953,0.465116279,0,0,0.279069767,leisure,couple,tokyo
+user41,Hotel Wing International Shinjuku,8,13362,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,leisure,friend,tokyo
+user41,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user41,APA Hotel - Higashishinjuku Kabukicho Higashi,8,6805,0.1125,0.25,0.25,0.1375,0.25,business,family,tokyo
+user42,Dormy Inn Akihabara,8.5,8655,0.036144578,0.240963855,0.240963855,0.240963855,0.240963855,leisure,friend,tokyo
+user42,Ryokan Sansuiso,9,2103,0.112676056,0.281690141,0.281690141,0.042253521,0.281690141,business,solo,tokyo
+user42,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user42,Hotel Villa Fontaine Tokyo-Jimbocho,8,2377,0.105263158,0.350877193,0.087719298,0.105263158,0.350877193,business,solo,tokyo
+user42,Shinjuku Washington Hotel,8,3588,0.243902439,0.243902439,0.097560976,0.170731707,0.243902439,leisure,solo,tokyo
+user42,Keikyu EX Inn Shinagawa,8.5,2923,0.2,0.285714286,0.142857143,0.1,0.271428571,leisure,solo,tokyo
+user42,Hotel East 21 Tokyo,8.5,3062,0.2,0.5,0.025,0.025,0.25,leisure,solo,tokyo
+user42,Mizue Dai-ichi Hotel,7,5104,0.127659574,0.425531915,0.085106383,0.021276596,0.340425532,business,family,tokyo
+user42,Shibuya Hotel En,8,10857,0.14893617,0.212765957,0.212765957,0.212765957,0.212765957,leisure,family,tokyo
+user42,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user42,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user42,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user43,Book And Bed Tokyo,8.5,1603,0.139784946,0.215053763,0.215053763,0.215053763,0.215053763,business,couple,tokyo
+user43,Sotetsu Fresa Inn Ginza-Nanachome,8,6588,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,family,tokyo
+user43,Forest Hongo,8,6614,0.142857143,0.571428571,0.028571429,0,0.257142857,business,family,tokyo
+user43,Otsuka City Hotel,7,5444,0.083333333,0.333333333,0.2,0.05,0.333333333,leisure,friend,tokyo
+user43,Hotel Mid In Akabane Ekimae,8,2289,0.136986301,0.273972603,0.273972603,0.04109589,0.273972603,leisure,solo,tokyo
+user43,Sutton Place Hotel Ueno,8,3712,0.1,0.333333333,0.116666667,0.116666667,0.333333333,business,couple,tokyo
+user43,Park Hyatt Tokyo,9,29766,0.285714286,0.285714286,0.042857143,0.1,0.285714286,leisure,family,tokyo
+user43,Meguro Gajoen,9,13741,0.09375,0.3125,0.25,0.046875,0.296875,leisure,family,tokyo
+user43,Ryokan & Spa Shizuku,9,4640,0.1875,0.625,0,0.03125,0.15625,leisure,solo,tokyo
+user43,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user43,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user43,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user44,Hilton Tokyo Hotel,8.5,12316,0.266666667,0.266666667,0.106666667,0.093333333,0.266666667,leisure,couple,tokyo
+user44,Sotetsu Fresa Inn Shimbashi Hibiyaguchi,8,3402,0.152173913,0.217391304,0.217391304,0.195652174,0.217391304,leisure,solo,tokyo
+user44,Sunshine City Prince Hotel,8,8784,0.146067416,0.224719101,0.202247191,0.202247191,0.224719101,leisure,friend,tokyo
+user44,Meguro Gajoen,9,13741,0.09375,0.3125,0.25,0.046875,0.296875,business,family,tokyo
+user44,Hikarihouse,8,3619,0.078947368,0.263157895,0.263157895,0.131578947,0.263157895,business,couple,tokyo
+user44,Zabutton hostel,9,2338,0.333333333,0.333333333,0.083333333,0.016666667,0.233333333,business,couple,tokyo
+user44,Hotel Sulata Shibuya Dougenzaka (Adult Only),7,6805,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,leisure,solo,tokyo
+user44,Toyoko Inn Tokyo Yamanote-sen Otsuka-eki Kita-guchi No.2,8,6213,0.06557377,0.327868852,0.196721311,0.081967213,0.327868852,leisure,friend,tokyo
+user44,Asakusa View Hotel,8,10517,0.114285714,0.285714286,0.157142857,0.228571429,0.214285714,business,friend,tokyo
+user44,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user44,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user45,Shinjuku Washington Hotel,8,4949,0.243902439,0.243902439,0.097560976,0.170731707,0.243902439,business,couple,tokyo
+user45,Daiwa Roynet Hotel Tokyo Akabane,9,2629,0.135135135,0.27027027,0.27027027,0.054054054,0.27027027,business,solo,tokyo
+user45,Centurion Hotel Ikebukuro,8,5586,0.133333333,0.222222222,0.222222222,0.2,0.222222222,business,friend,tokyo
+user45,Centurion Hotel Ueno,8,3402,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,leisure,couple,tokyo
+user45,Best Western Tokyo Nishikasai,8,4918,0.14516129,0.322580645,0.193548387,0.016129032,0.322580645,business,family,tokyo
+user45,Hotel Horidome Villa,8,1856,0.208955224,0.298507463,0.164179104,0.029850746,0.298507463,business,couple,tokyo
+user45,Capsule Hotel & Sauna Ikebukuro Plaza,8,3699,0.117647059,0.235294118,0.235294118,0.176470588,0.235294118,business,friend,tokyo
+user45,Ueno First City Hotel,8,2494,0.120879121,0.21978022,0.21978022,0.21978022,0.21978022,business,couple,tokyo
+user45,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user45,APA Hotel Ginza Kyobashi,8,6805,0.153846154,0.256410256,0.141025641,0.192307692,0.256410256,leisure,friend,tokyo
+user45,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user46,Mitsui Garden Hotel Shiodome Italia-gai,8,9217,0.174603175,0.317460317,0.095238095,0.095238095,0.317460317,business,friend,tokyo
+user46,Annex Katsutaro Ryokan,8.5,7671,0.105263158,0.526315789,0.078947368,0.026315789,0.263157895,leisure,friend,tokyo
+user46,Hotel Mandarin,8,5258,0.25,0.357142857,0.089285714,0.107142857,0.196428571,leisure,family,tokyo
+user46,APA Hotel Shinjuku-Kabukicho Tower,8,3402,0.120879121,0.21978022,0.21978022,0.21978022,0.21978022,leisure,solo,tokyo
+user46,Mandarin Oriental Tokyo,9,23050,0.15942029,0.289855072,0.130434783,0.130434783,0.289855072,leisure,family,tokyo
+user46,Toyoko Inn Uguisudani,8,3107,0.132075472,0.377358491,0.150943396,0,0.339622642,leisure,couple,tokyo
+user46,Tokyo Guest House Itabashi-juku,9,2165,0.108108108,0.540540541,0.054054054,0.027027027,0.27027027,business,couple,tokyo
+user46,APA Hotel Nihombashi Hamacho-eki Minami,8,2134,0.25,0.555555556,0,0.027777778,0.166666667,business,solo,tokyo
+user46,APA Hotel - Higashishinjuku Kabukicho Higashi,8,6805,0.1125,0.25,0.25,0.1375,0.25,business,family,tokyo
+user47,APA Hotel Tokyo Kudanshita,7.5,5258,0.098039216,0.392156863,0.078431373,0.039215686,0.392156863,leisure,friend,tokyo
+user47,Hotel Meigetsu,9,2413,0.205882353,0.588235294,0,0.058823529,0.147058824,leisure,family,tokyo
+user47,Hotel Lumiere Nishikasai,8,2227,0.129032258,0.322580645,0.193548387,0.032258065,0.322580645,leisure,solo,tokyo
+user47,Annex Check In Shimbashi,7.5,2666,0.192771084,0.240963855,0.240963855,0.084337349,0.240963855,business,solo,tokyo
+user47,Marunouchi Hotel,9,8248,0.215053763,0.215053763,0.161290323,0.193548387,0.215053763,leisure,couple,tokyo
+user47,HOTEL MYSTAYS PREMIER Hamamatsucho,8,5351,0.213114754,0.327868852,0.049180328,0.081967213,0.327868852,leisure,couple,tokyo
+user47,APA Hotel Ginza-Takaracho,8,6341,0.139240506,0.253164557,0.126582278,0.227848101,0.253164557,leisure,family,tokyo
+user47,Best Western Tokyo Nishikasai,8,5289,0.14516129,0.322580645,0.193548387,0.016129032,0.322580645,leisure,friend,tokyo
+user47,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user47,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user47,APA Hotel - Higashishinjuku Kabukicho Higashi,8,6805,0.1125,0.25,0.25,0.1375,0.25,business,family,tokyo
+user48,Hikarihouse,8,3619,0.078947368,0.263157895,0.263157895,0.131578947,0.263157895,leisure,couple,tokyo
+user48,Hotel the M Innsomnia Akasaka,9,6032,0.123287671,0.273972603,0.273972603,0.054794521,0.273972603,leisure,couple,tokyo
+user48,Kuretake-Inn Tokyo Funabori,8,2660,0.184210526,0.526315789,0.026315789,0.026315789,0.236842105,leisure,couple,tokyo
+user48,Kotobuki Sou,10,10826,0.171428571,0.285714286,0.1,0.157142857,0.285714286,business,family,tokyo
+user48,APA Hotel Okachimachi Eki-Kita S,8,3341,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user48,The Nell Ueno Okachimachi,8,3588,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,leisure,friend,tokyo
+user48,Capsule and Sauna Rosco,8,5345,0.047619048,0.476190476,0.119047619,0.047619048,0.30952381,leisure,friend,tokyo
+user48,Solaria Nishitetsu Hotel Ginza,9,4949,0.206185567,0.206185567,0.206185567,0.175257732,0.206185567,leisure,solo,tokyo
+user48,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user48,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user48,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user49,Daiwa Roynet Hotel Ginza,9,6047,0.222222222,0.222222222,0.133333333,0.2,0.222222222,business,couple,tokyo
+user49,K's House Tokyo Oasis - Quality Hostel,9,3805,0.148648649,0.27027027,0.148648649,0.216216216,0.216216216,leisure,family,tokyo
+user49,Hotel Listel Shinjuku,7,6959,0.106666667,0.266666667,0.266666667,0.093333333,0.266666667,leisure,family,tokyo
+user49,Hotel Lungwood,8,3186,0.096153846,0.384615385,0.230769231,0.019230769,0.269230769,leisure,couple,tokyo
+user49,Sunshine City Prince Hotel,8,4392,0.146067416,0.224719101,0.202247191,0.202247191,0.224719101,business,couple,tokyo
+user49,Centurion Hotel Ueno,8,3402,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,business,couple,tokyo
+user49,HOTEL MYSTAYS Ueno Inaricho,8,6458,0.088888889,0.444444444,0.022222222,0.177777778,0.266666667,business,friend,tokyo
+user49,the b Akasaka,8,2165,0.101449275,0.289855072,0.289855072,0.028985507,0.289855072,leisure,solo,tokyo
+user49,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user49,APA Hotel - Higashishinjuku Kabukicho Higashi,8,6805,0.1125,0.25,0.25,0.1375,0.25,business,family,tokyo
+user49,APA Hotel Ginza Kyobashi,8,6805,0.153846154,0.256410256,0.141025641,0.192307692,0.256410256,leisure,friend,tokyo
+user5,Keikyu EX Inn Shinagawa,8.5,3341,0.2,0.285714286,0.142857143,0.1,0.271428571,leisure,couple,tokyo
+user5,Nishitetsu Inn Nihonbashi,8,2938,0.154929577,0.281690141,0.225352113,0.056338028,0.281690141,business,couple,tokyo
+user5,Book And Bed Tokyo,8.5,6414,0.139784946,0.215053763,0.215053763,0.215053763,0.215053763,leisure,friend,tokyo
+user5,Shinagawa Prince Hotel,8,3123,0.202898551,0.289855072,0.144927536,0.101449275,0.260869565,business,solo,tokyo
+user5,APA Hotel TKP Nippori Ekimae,8,4949,0.096153846,0.384615385,0.230769231,0,0.288461538,business,friend,tokyo
+user5,Ark Hotel Tokyo Ikebukuro,8,5289,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,family,tokyo
+user5,Tokyu Stay Suidobashi,9,3310,0.134615385,0.384615385,0.076923077,0.019230769,0.384615385,leisure,couple,tokyo
+user5,Meguro Gajoen,9,13741,0.09375,0.3125,0.25,0.046875,0.296875,business,family,tokyo
+user5,the b Akasaka,8,7423,0.101449275,0.289855072,0.289855072,0.028985507,0.289855072,leisure,friend,tokyo
+user5,Super Hotel Ueno-Okachimachi,8,8042,0.111111111,0.222222222,0.222222222,0.222222222,0.222222222,business,family,tokyo
+user5,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user5,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user5,APA Hotel Asakusa Kuramae,8,4949,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,business,friend,tokyo
+user5,HOTEL MYSTAYS Maihama,8,6310,0.5,0.416666667,0,0,0.083333333,business,family,tokyo
+user5,FLEXSTAY INN Shinagawa,8,2413,0.195121951,0.487804878,0.073170732,0,0.243902439,leisure,couple,tokyo
+user5,Hotel East 21 Tokyo,8.5,3866,0.2,0.5,0.025,0.025,0.25,business,couple,tokyo
+user5,Toyoko Inn Tokyo Yamanote-sen Otsuka-eki Kita-guchi No.2,8,6213,0.06557377,0.327868852,0.196721311,0.081967213,0.327868852,leisure,friend,tokyo
+user5,Cerulean Tower Tokyu Hotel,9,12677,0.2,0.2,0.2,0.2,0.2,business,family,tokyo
+user5,New Central Hotel,8,2753,0.195876289,0.206185567,0.206185567,0.18556701,0.206185567,leisure,solo,tokyo
+user5,Hotel Hikari,8,4578,0.209302326,0.465116279,0,0,0.325581395,business,friend,tokyo
+user5,Kichijoji Daiichi Hotel,8,3984,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,business,couple,tokyo
+user5,Daiwa Roynet Hotel Ginza,9,5691,0.222222222,0.222222222,0.133333333,0.2,0.222222222,business,solo,tokyo
+user5,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user50,Nishitetsu Inn Nihonbashi,8,2938,0.154929577,0.281690141,0.225352113,0.056338028,0.281690141,business,couple,tokyo
+user50,Hotel Kaminarimon,8.5,2134,0.180722892,0.240963855,0.108433735,0.240963855,0.228915663,business,solo,tokyo
+user50,Hotel New Tohoku,8,2450,0.133333333,0.222222222,0.2,0.222222222,0.222222222,business,couple,tokyo
+user50,APA Hotel Tsukiji-eki Minami,8,5258,0.237288136,0.338983051,0,0.084745763,0.338983051,business,friend,tokyo
+user50,Tokyu Stay Suidobashi,9,4918,0.134615385,0.384615385,0.076923077,0.019230769,0.384615385,leisure,family,tokyo
+user50,Chiyoda Inn,9,5939,0.285714286,0.408163265,0,0.040816327,0.265306122,business,friend,tokyo
+user50,Hotel Sunroute Plaza Shinjuku,8.5,10145,0.204081633,0.204081633,0.183673469,0.204081633,0.204081633,leisure,friend,tokyo
+user50,APA Hotel Nihombashi Hamacho-eki Minami,8,6496,0.25,0.555555556,0,0.027777778,0.166666667,business,family,tokyo
+user50,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user50,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user6,Hotel Ohedo,8,3152,0.078947368,0.263157895,0.263157895,0.131578947,0.263157895,leisure,couple,tokyo
+user6,Ryokan Katsutaro,8,6260,0.148148148,0.740740741,0,0,0.111111111,business,friend,tokyo
+user6,Hotel Wing International Korakuen,8,3712,0.240740741,0.37037037,0,0.12962963,0.259259259,business,solo,tokyo
+user6,Hotel Lumiere Kasai,8,6434,0.138461538,0.307692308,0.276923077,0.015384615,0.261538462,leisure,friend,tokyo
+user6,Toyoko Inn Tokyo Kamata Higashi-guchi,7,5746,0.135135135,0.27027027,0.27027027,0.054054054,0.27027027,business,family,tokyo
+user6,Hotel Gracery Tamachi,8.5,3805,0.295081967,0.327868852,0.016393443,0.032786885,0.327868852,business,couple,tokyo
+user6,Odakyu Hotel Century Southern Tower,9,15156,0.2,0.2,0.2,0.2,0.2,business,family,tokyo
+user6,Hotel Horidome Villa,8,1856,0.208955224,0.298507463,0.164179104,0.029850746,0.298507463,business,couple,tokyo
+user6,Shibuya Tokyu REI Hotel,8,10424,0.2,0.2,0.2,0.2,0.2,business,friend,tokyo
+user6,Ace Inn Shinjuku,7.5,4077,0.14893617,0.425531915,0.085106383,0,0.340425532,leisure,friend,tokyo
+user6,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user6,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,leisure,family,tokyo
+user6,Senju Tamuraya,9,1330,0.205882353,0.588235294,0,0.058823529,0.147058824,leisure,solo,tokyo
+user6,Sutton Place Hotel Ueno,8,7423,0.1,0.333333333,0.116666667,0.116666667,0.333333333,business,family,tokyo
+user6,Hotel Graphy Nezu,8,5790,0.142857143,0.714285714,0,0,0.142857143,leisure,family,tokyo
+user6,Shinagawa Prince Hotel,8,3123,0.202898551,0.289855072,0.144927536,0.101449275,0.260869565,leisure,solo,tokyo
+user6,Centurion Hotel Ueno,8,10207,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,business,family,tokyo
+user6,Ryogoku View Hotel,8,3031,0.25,0.5,0.05,0,0.2,business,couple,tokyo
+user6,Hotel New Tohoku,8,2450,0.133333333,0.222222222,0.2,0.222222222,0.222222222,business,couple,tokyo
+user6,Nishitetsu Inn Shinjuku,8,7269,0.21978022,0.21978022,0.153846154,0.186813187,0.21978022,leisure,family,tokyo
+user6,Odakyu Hotel Century Southern Tower,9,15156,0.2,0.2,0.2,0.2,0.2,business,family,tokyo
+user6,Sakura Hotel Ikebukuro,8,5165,0.097560976,0.243902439,0.243902439,0.170731707,0.243902439,business,friend,tokyo
+user6,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user6,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user6,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user7,Toyoko Inn Tokyo Haneda Kuko No.1,8,10423,0.214285714,0.476190476,0.023809524,0,0.285714286,business,friend,tokyo
+user7,Sadachiyo,9,10145,0.151515152,0.303030303,0.121212121,0.196969697,0.227272727,leisure,family,tokyo
+user7,Hotel Sulata Shibuya Dougenzaka (Adult Only),7,13919,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,friend,tokyo
+user7,HOTEL MYSTAYS Asakusa bashi,8,2320,0.105263158,0.350877193,0.192982456,0,0.350877193,leisure,couple,tokyo
+user7,Odakyu Hotel Century Southern Tower,9,15156,0.2,0.2,0.2,0.2,0.2,leisure,family,tokyo
+user7,Hotel Edoya,8,2131,0.08,0.266666667,0.266666667,0.12,0.266666667,business,solo,tokyo
+user7,Tokyu Stay Suidobashi,9,3310,0.134615385,0.384615385,0.076923077,0.019230769,0.384615385,business,couple,tokyo
+user7,HOTEL MYSTAYS Ochanomizu Conference Center,8,2413,0.111111111,0.222222222,0.222222222,0.222222222,0.222222222,business,solo,tokyo
+user7,Kichijoji Tokyu REI Hotel,8,3480,0.149425287,0.229885057,0.229885057,0.16091954,0.229885057,business,solo,tokyo
+user7,HOTEL MYSTAYS Asakusa,7.5,4287,0.2,0.5,0.025,0.025,0.25,business,family,tokyo
+user7,APA Hotel Asakusa Kuramae,8,2165,0.235294118,0.392156863,0.019607843,0.039215686,0.31372549,leisure,solo,tokyo
+user7,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user7,Hotel Tokyo Garden Palace,8,6681,0.134615385,0.384615385,0.038461538,0.057692308,0.384615385,business,family,tokyo
+user7,APA Hotel Okachimachi Eki-Kita S,8,3341,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,leisure,couple,tokyo
+user7,Best Western Tokyo Nishikasai,8,2645,0.14516129,0.322580645,0.193548387,0.016129032,0.322580645,business,couple,tokyo
+user7,Hotel JAL City Haneda Tokyo West Wing,8.5,4021,0.23255814,0.465116279,0.046511628,0,0.255813953,leisure,family,tokyo
+user7,APA Hotel - Higashishinjuku Kabukicho Higashi,8,6805,0.1125,0.25,0.25,0.1375,0.25,leisure,family,tokyo
+user7,Hotel Villa Fontaine Tokyo-Ueno Okachimachi,8,3248,0.086956522,0.434782609,0,0.130434783,0.347826087,business,couple,tokyo
+user7,Capsule Hotel Shibuya,7.5,2598,0.2,0.2,0.2,0.2,0.2,business,couple,tokyo
+user7,Keio Presso Inn Ikebukuro,8,9898,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,leisure,friend,tokyo
+user7,HOTEL VARKIN (Adult Only),7.5,4021,0.146341463,0.243902439,0.243902439,0.12195122,0.243902439,leisure,solo,tokyo
+user7,Ryokan Sansuiso,9,2103,0.112676056,0.281690141,0.281690141,0.042253521,0.281690141,business,solo,tokyo
+user7,APA Hotel Ginza-Takaracho,8,6805,0.139240506,0.253164557,0.126582278,0.227848101,0.253164557,business,friend,tokyo
+user8,Belmont Hotel,7.5,5877,0.150943396,0.377358491,0.132075472,0.094339623,0.245283019,business,friend,tokyo
+user8,First Cabin Atagoyama,8,1732,0.209876543,0.24691358,0.24691358,0.049382716,0.24691358,business,solo,tokyo
+user8,Shinjuku Kuyakusho-mae Capsule Hotel,8,5568,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,friend,tokyo
+user8,Tokyo Bay Maihama Hotel Club Resort,8,7423,0.272727273,0.606060606,0.03030303,0,0.090909091,business,family,tokyo
+user8,Toyoko Inn Tokyo Kanda Akihabara,8,2439,0.158730159,0.317460317,0.19047619,0.015873016,0.317460317,business,solo,tokyo
+user8,Shibuya Tokyu REI Hotel,8,10424,0.2,0.2,0.2,0.2,0.2,leisure,friend,tokyo
+user8,APA Hotel Ueno-Ekimae,8,3402,0.042553191,0.425531915,0.021276596,0.085106383,0.425531915,leisure,couple,tokyo
+user8,Hotel Listel Shinjuku,7,6959,0.106666667,0.266666667,0.266666667,0.093333333,0.266666667,leisure,family,tokyo
+user8,Haneda Excel Hotel Tokyu,8.5,4949,0.29787234,0.425531915,0.14893617,0,0.127659574,leisure,solo,tokyo
+user8,APA Hotel Hanzomon Hirakawacho,8,4640,0.166666667,0.37037037,0.055555556,0.037037037,0.37037037,business,friend,tokyo
+user8,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo
+user8,Ryokan & Spa Shizuku,9,4640,0.1875,0.625,0,0.03125,0.15625,leisure,solo,tokyo
+user8,Hotel East 21 Tokyo,8.5,3062,0.2,0.5,0.025,0.025,0.25,leisure,solo,tokyo
+user8,APA Hotel Ueno-Ekimae,8,6805,0.042553191,0.425531915,0.021276596,0.085106383,0.425531915,business,friend,tokyo
+user8,Sauna and Capsule Hotel Dandy (Male Only),7,3675,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,friend,tokyo
+user8,Sakura Hotel Ikebukuro,8,3928,0.097560976,0.243902439,0.243902439,0.170731707,0.243902439,leisure,family,tokyo
+user8,Tokyo Ueno New Izu Hotel,8,3155,0.14893617,0.212765957,0.212765957,0.212765957,0.212765957,leisure,couple,tokyo
+user8,Dai-ichi Hotel Tokyo Seafort,8,4330,0.311111111,0.444444444,0.022222222,0.088888889,0.133333333,leisure,solo,tokyo
+user8,Dormy Inn Express Meguro Aobadai Hot Spring,8,9217,0.157894737,0.526315789,0,0.052631579,0.263157895,business,couple,tokyo
+user8,Best Western Tokyo Nishikasai,8,5289,0.14516129,0.322580645,0.193548387,0.016129032,0.322580645,business,friend,tokyo
+user8,Via Inn Asakusa,8,2660,0.206896552,0.344827586,0.034482759,0.224137931,0.189655172,business,couple,tokyo
+user8,APA Hotel - Higashishinjuku Kabukicho Higashi,8,3093,0.1125,0.25,0.25,0.1375,0.25,business,solo,tokyo
+user8,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user8,APA Hotel Akihabara-Ekimae,8,6186,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,friend,tokyo
+user9,Hotel Arca Torre Roppongi,8,4343,0.195652174,0.217391304,0.217391304,0.152173913,0.217391304,leisure,solo,tokyo
+user9,Shibuya Tobu Hotel,8,13307,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,friend,tokyo
+user9,Marunouchi Hotel,9,14909,0.215053763,0.215053763,0.161290323,0.193548387,0.215053763,leisure,family,tokyo
+user9,Hotel Sunroute Higashi Shinjuku,8,7176,0.116883117,0.25974026,0.25974026,0.103896104,0.25974026,business,friend,tokyo
+user9,the b Roppongi,8,3681,0.164705882,0.235294118,0.235294118,0.129411765,0.235294118,business,couple,tokyo
+user9,APA Hotel Roppongi-Ichome Ekimae,7,7423,0.136363636,0.303030303,0.303030303,0.045454545,0.212121212,leisure,friend,tokyo
+user9,Hotel Mid In Meguro Ekimae,8,3712,0.079365079,0.317460317,0.238095238,0.047619048,0.317460317,business,couple,tokyo
+user9,APA Hotel Tokyo Shiomi Ekimae,8,3093,0.260869565,0.52173913,0,0.043478261,0.173913043,business,couple,tokyo
+user9,Capsulevalue Kanda,8,3279,0.126582278,0.253164557,0.253164557,0.113924051,0.253164557,leisure,family,tokyo
+user9,APA Hotel Shintomicho-Ekimae,8,2165,0.23880597,0.298507463,0.074626866,0.089552239,0.298507463,business,solo,tokyo
+user9,ANA InterContinental Tokyo,8,18435,0.160714286,0.357142857,0.053571429,0.071428571,0.357142857,business,family,tokyo
+user9,APA Hotel Akihabara-Ekimae,8,3093,0.058823529,0.235294118,0.235294118,0.235294118,0.235294118,leisure,couple,tokyo
+user9,APA Hotel Higashi Shinjuku Kabukicho,8,6186,0.1125,0.25,0.25,0.1375,0.25,business,friend,tokyo
+user9,Hotel Kuramae,7,6557,0.162790698,0.465116279,0.023255814,0.046511628,0.302325581,business,friend,tokyo
+user9,Haneda Excel Hotel Tokyu,8.5,4949,0.29787234,0.425531915,0.14893617,0,0.127659574,business,solo,tokyo
+user9,Shibuya Tobu Hotel,8,6653,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,couple,tokyo
+user9,Hotel Meigetsu,9,1083,0.205882353,0.588235294,0,0.058823529,0.147058824,business,solo,tokyo
+user9,Kuretake-Inn Tokyo Funabori,8,2057,0.184210526,0.526315789,0.026315789,0.026315789,0.236842105,leisure,solo,tokyo
+user9,Best Western Tokyo Nishikasai,8,4918,0.14516129,0.322580645,0.193548387,0.016129032,0.322580645,leisure,family,tokyo
+user9,HOTEL UNIZO Tokyo Ginza-itchome,8,8042,0.186046512,0.23255814,0.151162791,0.197674419,0.23255814,business,friend,tokyo
+user9,Toyoko Inn Tokyo Haneda Kuko No.1,8,10423,0.214285714,0.476190476,0.023809524,0,0.285714286,leisure,friend,tokyo
+user9,Hotel Mandarin,8,5258,0.25,0.357142857,0.089285714,0.107142857,0.196428571,business,family,tokyo
+user9,APA Hotel Keisei Ueno Ekimae,8,4021,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,couple,tokyo

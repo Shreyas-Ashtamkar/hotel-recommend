@@ -1,0 +1,772 @@
+user_id,hotel_name,rating,price,near_station,restaurant,entertain,shopping_mall,convenience_store,trip_type,companion,destination
+user1,PARKROYAL on Beach Road,8,4669,0.234567901,0.24691358,0.24691358,0.098765432,0.172839506,business,couple,singapore
+user1,Hilton Singapore,8,7215,0.178571429,0.238095238,0.214285714,0.238095238,0.130952381,business,solo,singapore
+user1,Amara Sanctuary Resort Sentosa,7.5,6204,0.2,0.666666667,0,0,0.133333333,business,couple,singapore
+user1,85 Beach Garden Hotel,7,1935,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user1,Resorts World Sentosa - Beach Villas,8.5,32956,0.125,0.8125,0,0.0625,0,business,couple,singapore
+user1,Venue Hotel The Lily,7.5,2927,0.243243243,0.540540541,0.081081081,0.027027027,0.108108108,leisure,family,singapore
+user1,Studio M Hotel,8,4294,0.150943396,0.377358491,0.188679245,0.150943396,0.132075472,business,couple,singapore
+user1,Park 22 Hotel Little India,7,6242,0.215384615,0.307692308,0.107692308,0.138461538,0.230769231,business,friend,singapore
+user1,Checkers Backpackers,7,2197,0.213483146,0.224719101,0.112359551,0.224719101,0.224719101,business,couple,singapore
+user1,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user1,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user1,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user1,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user1,The Daulat,8,3732,0.215053763,0.215053763,0.139784946,0.215053763,0.215053763,business,solo,singapore
+user1,J8 Hotel,7,2864,0.171875,0.3125,0.171875,0.125,0.21875,business,couple,singapore
+user1,Fragrance Hotel - Lavender,6,3477,0.283333333,0.333333333,0.1,0.083333333,0.2,business,family,singapore
+user1,Sleepy Kiwi Boutique Hostel & Bar,7,494,0.229885057,0.229885057,0.229885057,0.103448276,0.206896552,business,solo,singapore
+user1,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user1,Robertson Quay Hotel,7,2621,0.154929577,0.281690141,0.281690141,0.14084507,0.14084507,leisure,couple,singapore
+user1,Champion Hotel,8,1857,0.227272727,0.454545455,0.022727273,0.159090909,0.136363636,business,solo,singapore
+user1,Hotel 81 Osaka,7,5049,0.205128205,0.512820513,0.025641026,0.051282051,0.205128205,leisure,family,singapore
+user1,Hotel 81 Premier Hollywood,7,1803,0.25,0.416666667,0.083333333,0,0.25,business,couple,singapore
+user1,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user1,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user1,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user10,PARKROYAL on Kitchener Road,8,8489,0.19047619,0.317460317,0.206349206,0.158730159,0.126984127,leisure,family,singapore
+user10,Hotel 81 Princess,7,1697,0.26,0.4,0.1,0,0.24,leisure,couple,singapore
+user10,MKS Backpackers Hostel - Cuff Road,6,1648,0.164556962,0.253164557,0.101265823,0.227848101,0.253164557,leisure,friend,singapore
+user10,Arena Suites,7,4694,0.65,0.3,0.05,0,0,leisure,solo,singapore
+user10,Hotel 81 Sakura,7,1888,0.225,0.5,0.075,0.075,0.125,leisure,couple,singapore
+user10,Sofitel Singapore Sentosa Resort & Spa,8.5,61417,0.444444444,0.555555556,0,0,0,leisure,friend,singapore
+user10,M Social Singapore,8,9937,0.208333333,0.416666667,0.125,0.145833333,0.104166667,business,friend,singapore
+user10,Studio M Hotel,8,4294,0.150943396,0.377358491,0.188679245,0.150943396,0.132075472,business,solo,singapore
+user10,85 Beach Garden Hotel,7,1935,0.2,0.2,0.2,0.2,0.2,business,couple,singapore
+user10,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user10,Hotel 81 Premier Hollywood,7,3606,0.25,0.416666667,0.083333333,0,0.25,business,friend,singapore
+user10,Mandarin Orchard Singapore,8,6494,0.125,0.25,0.1375,0.25,0.2375,leisure,solo,singapore
+user10,MKS Backpackers Hostel - Cuff Road,6,1648,0.164556962,0.253164557,0.101265823,0.227848101,0.253164557,leisure,friend,singapore
+user10,Hotel 81 Cosy,7,5049,0.215053763,0.215053763,0.215053763,0.150537634,0.204301075,leisure,friend,singapore
+user10,Tai Hoe Hotel,7,2100,0.171875,0.3125,0.1875,0.15625,0.171875,business,couple,singapore
+user10,Beary Best! by a beary good hostel,8,2252,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,couple,singapore
+user10,Perak Hotel,7.5,2716,0.213483146,0.224719101,0.112359551,0.224719101,0.224719101,leisure,couple,singapore
+user10,Pillow Talk Hostel,7,624,0.227272727,0.303030303,0.181818182,0.106060606,0.181818182,leisure,solo,singapore
+user10,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user10,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user10,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user11,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user11,Sofitel Singapore Sentosa Resort & Spa,8.5,16478,0.444444444,0.555555556,0,0,0,leisure,family,singapore
+user11,Hilton Singapore,8,7215,0.178571429,0.238095238,0.214285714,0.238095238,0.130952381,leisure,solo,singapore
+user11,Changi Cove,8,5393,0.285714286,0.714285714,0,0,0,business,friend,singapore
+user11,Nano Hostel,7,1688,0.363636364,0.363636364,0.163636364,0.036363636,0.072727273,business,friend,singapore
+user11,Grand Park Orchard,8,7428,0.134146341,0.243902439,0.146341463,0.243902439,0.231707317,business,couple,singapore
+user11,Fragrance Hotel - Lavender,6,3477,0.283333333,0.333333333,0.1,0.083333333,0.2,business,solo,singapore
+user11,V Hotel Lavender,7,3140,0.288135593,0.338983051,0.06779661,0.101694915,0.203389831,business,couple,singapore
+user11,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user11,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user11,W Singapore - Sentosa Cove,8.5,9974,0.083333333,0.833333333,0,0.041666667,0.041666667,leisure,solo,singapore
+user11,Adamson Inn,8,949,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,business,solo,singapore
+user11,ZEN Rooms Bukit Merah,7,4584,0.541666667,0.291666667,0,0,0.166666667,leisure,friend,singapore
+user11,Hotel Fort Canning,9,13282,0.212121212,0.303030303,0.196969697,0.166666667,0.121212121,business,family,singapore
+user11,The Fullerton Bay Hotel Singapore,9,35952,0.163636364,0.363636364,0.127272727,0.109090909,0.236363636,business,friend,singapore
+user11,Beary Best! by a beary good hostel,8,2252,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,couple,singapore
+user11,Mandarin Orchard Singapore,8,6494,0.125,0.25,0.1375,0.25,0.2375,leisure,couple,singapore
+user11,The Club,9,6991,0.212765957,0.212765957,0.191489362,0.170212766,0.212765957,business,family,singapore
+user11,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user11,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user12,ZEN Rooms Farrer Park,7,1867,0.232142857,0.357142857,0.160714286,0.089285714,0.160714286,business,solo,singapore
+user12,The Haven by JetQuay,7.5,7490,0.157894737,0.526315789,0.157894737,0.052631579,0.105263158,leisure,couple,singapore
+user12,Days Hotel Singapore at Zhongshan Park,8,3183,0.292682927,0.487804878,0.024390244,0.097560976,0.097560976,business,solo,singapore
+user12,Maple Lodge @ Chinatown,8,899,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,couple,singapore
+user12,Aqueen Heritage Hotel Joo Chiat,8,2497,0.195121951,0.487804878,0.024390244,0.146341463,0.146341463,leisure,solo,singapore
+user12,Hilton Singapore,8,7640,0.178571429,0.238095238,0.214285714,0.238095238,0.130952381,business,couple,singapore
+user12,Coziee Lodge,8,1743,0.347826087,0.434782609,0.043478261,0.02173913,0.152173913,business,friend,singapore
+user12,Fort Canning Lodge,7,3639,0.173913043,0.289855072,0.217391304,0.217391304,0.101449275,business,solo,singapore
+user12,5footway.inn Project Chinatown 1,7,2973,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user12,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user12,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user12,Golden Royal Hotel,7,2439,0.127272727,0.363636364,0.2,0.254545455,0.054545455,business,solo,singapore
+user12,Hotel 81 Dickson,7,2312,0.215909091,0.227272727,0.102272727,0.227272727,0.227272727,business,couple,singapore
+user12,Hotel Jen Tanglin Singapore by Shangri-la,8.5,8489,0.307692308,0.512820513,0.051282051,0.076923077,0.051282051,leisure,family,singapore
+user12,Studio M Hotel,8,8588,0.150943396,0.377358491,0.188679245,0.150943396,0.132075472,leisure,friend,singapore
+user12,City Backpackers @ Hongkong Street,7,434,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user12,Peninsula Excelsior Hotel,8,8871,0.21978022,0.21978022,0.21978022,0.21978022,0.120879121,business,friend,singapore
+user12,Park 22 Hotel Little India,7,2016,0.215384615,0.307692308,0.107692308,0.138461538,0.230769231,business,solo,singapore
+user12,The Inn at Temple Street,7,5346,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,friend,singapore
+user12,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user12,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user12,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user13,Mandarin Orchard Singapore,8,15429,0.125,0.25,0.1375,0.25,0.2375,business,friend,singapore
+user13,Fragrance Hotel - Crystal,7,1661,0.212765957,0.425531915,0.127659574,0,0.234042553,leisure,solo,singapore
+user13,Fragrance Hotel - Viva,7,3244,0.421052632,0.263157895,0,0.105263158,0.210526316,business,solo,singapore
+user13,Park Avenue Rochester,8,5443,0.255813953,0.465116279,0.046511628,0.093023256,0.139534884,business,solo,singapore
+user13,Park 22 Hotel Little India,7,2653,0.215384615,0.307692308,0.107692308,0.138461538,0.230769231,leisure,couple,singapore
+user13,Moon 23 Hotel,7,2699,0.182926829,0.243902439,0.097560976,0.231707317,0.243902439,business,couple,singapore
+user13,Raintr33 Hotel Singapore,7,6741,0.434782609,0.565217391,0,0,0,leisure,friend,singapore
+user13,ZEN Rooms Arab Street,8,2483,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,business,couple,singapore
+user13,5footway.inn Project Chinatown 1,7,2973,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user13,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user13,The Haven by JetQuay,7.5,11235,0.157894737,0.526315789,0.157894737,0.052631579,0.105263158,business,family,singapore
+user13,Park Hotel Clarke Quay,8,6262,0.154929577,0.281690141,0.281690141,0.14084507,0.14084507,business,solo,singapore
+user13,Hotel 81 Selegie,7,2312,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,business,solo,singapore
+user13,Hotel 81 Gold,8,1803,0.25,0.357142857,0.160714286,0.017857143,0.214285714,business,couple,singapore
+user13,Value Hotel Balestier,7,2312,0.215686275,0.392156863,0.058823529,0.137254902,0.196078431,business,solo,singapore
+user13,Genting Hotel Jurong,7.5,4269,0.294117647,0.392156863,0.039215686,0.156862745,0.117647059,business,couple,singapore
+user13,Hotel NuVe Heritage,8.5,5146,0.206185567,0.206185567,0.206185567,0.206185567,0.175257732,business,family,singapore
+user13,City Backpackers @ Kallang,5,1258,0.317073171,0.487804878,0.048780488,0.024390244,0.12195122,business,friend,singapore
+user13,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user13,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user13,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user13,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user14,Rendezvous Hotel Singapore by Far East Hospitality,8,9188,0.210526316,0.210526316,0.210526316,0.210526316,0.157894737,business,friend,singapore
+user14,Furama RiverFront,8,4075,0.307692308,0.384615385,0.096153846,0.115384615,0.096153846,leisure,couple,singapore
+user14,Moni Gallery Hostel,7,350,0.283018868,0.377358491,0.150943396,0.056603774,0.132075472,leisure,solo,singapore
+user14,Fragrance Hotel - Kovan,6.5,6020,0.288888889,0.444444444,0.088888889,0.088888889,0.088888889,business,friend,singapore
+user14,Blissful Loft,7,1335,0.2,0.2,0.2,0.2,0.2,business,couple,singapore
+user14,Grand Park Orchard,8,14855,0.134146341,0.243902439,0.146341463,0.243902439,0.231707317,leisure,friend,singapore
+user14,PARKROYAL on Kitchener Road,8,8489,0.19047619,0.317460317,0.206349206,0.158730159,0.126984127,business,family,singapore
+user14,Aqueen Jalan Besar Hotel,7,3745,0.136363636,0.303030303,0.196969697,0.166666667,0.196969697,leisure,family,singapore
+user14,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user14,Amara Singapore,8,5742,0.23255814,0.23255814,0.220930233,0.127906977,0.186046512,business,family,singapore
+user14,Grand Park Orchard,8,14855,0.134146341,0.243902439,0.146341463,0.243902439,0.231707317,business,friend,singapore
+user14,Fort Canning Lodge,7,3639,0.173913043,0.289855072,0.217391304,0.217391304,0.101449275,business,solo,singapore
+user14,Carlton Hotel Singapore,9,6616,0.204081633,0.204081633,0.204081633,0.204081633,0.183673469,business,family,singapore
+user14,ZEN Rooms Balestier,8,5051,0.24,0.4,0.06,0.14,0.16,business,friend,singapore
+user14,Parc Sovereign Hotel - Albert St,7,3164,0.2,0.2,0.2,0.2,0.2,business,couple,singapore
+user14,Mercure Singapore Bugis,8,3755,0.2,0.2,0.2,0.2,0.2,business,couple,singapore
+user14,Arton Boutique Hotel,8,2673,0.253968254,0.317460317,0.158730159,0.095238095,0.174603175,leisure,solo,singapore
+user14,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user14,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user14,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user15,Santa Grand Hotel East Coast,8,6067,0.228571429,0.285714286,0.128571429,0.185714286,0.171428571,leisure,friend,singapore
+user15,Village Hotel Bugis by Far East Hospitality,8,4119,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,business,solo,singapore
+user15,Venue Hotel The Lily,7.5,2927,0.243243243,0.540540541,0.081081081,0.027027027,0.108108108,business,family,singapore
+user15,Hotel Chancellor@Orchard,7,3495,0.1125,0.25,0.25,0.25,0.1375,business,couple,singapore
+user15,Fragrance Hotel - Classic,7,2217,0.235294118,0.392156863,0.078431373,0.137254902,0.156862745,leisure,solo,singapore
+user15,Premier Inn Singapore Beach Road,8,3247,0.2,0.25,0.25,0.1125,0.1875,leisure,solo,singapore
+user15,The Club,9,6991,0.212765957,0.212765957,0.191489362,0.170212766,0.212765957,leisure,family,singapore
+user15,Fragrance Hotel - Kovan,6.5,6020,0.288888889,0.444444444,0.088888889,0.088888889,0.088888889,leisure,friend,singapore
+user15,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user15,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user15,Sleepy Kiwi Boutique Hostel & Bar,7,494,0.229885057,0.229885057,0.229885057,0.103448276,0.206896552,leisure,solo,singapore
+user15,Hotel 81 Tristar,7,2949,0.288461538,0.384615385,0.038461538,0.153846154,0.134615385,leisure,family,singapore
+user15,Kam Leng Hotel by JL Asia,7,1977,0.232142857,0.357142857,0.160714286,0.089285714,0.160714286,leisure,couple,singapore
+user15,Santa Grand Hotel Little India,7,2016,0.16,0.266666667,0.133333333,0.2,0.24,business,solo,singapore
+user15,D'Kranji Farm Resort,7,3745,0,1,0,0,0,business,solo,singapore
+user15,Fragrance Hotel - Balestier,7.5,1908,0.211538462,0.384615385,0.057692308,0.153846154,0.192307692,leisure,couple,singapore
+user15,Days Hotel Singapore at Zhongshan Park,8,3183,0.292682927,0.487804878,0.024390244,0.097560976,0.097560976,business,couple,singapore
+user15,Bunc Hostel,8,1582,0.186046512,0.23255814,0.11627907,0.23255814,0.23255814,business,couple,singapore
+user15,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user15,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user15,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user16,Ibis Singapore on Bencoolen,8,2876,0.2,0.2,0.2,0.2,0.2,leisure,solo,singapore
+user16,Ibis Singapore Novena,7,2746,0.268292683,0.487804878,0.024390244,0.097560976,0.12195122,leisure,solo,singapore
+user16,Ibis Singapore on Bencoolen,8,5752,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user16,Hotel Kai,8,2996,0.206185567,0.206185567,0.206185567,0.206185567,0.175257732,leisure,couple,singapore
+user16,Le Peranakan Hotel,6,1498,0.422222222,0.444444444,0.022222222,0,0.111111111,business,solo,singapore
+user16,Fragrance Hotel - Crystal,7,1661,0.212765957,0.425531915,0.127659574,0,0.234042553,leisure,couple,singapore
+user16,Resorts World Sentosa - Festive Hotel,7.5,7115,0.108108108,0.540540541,0.081081081,0.135135135,0.135135135,business,solo,singapore
+user16,Adamson Inn,8,949,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,business,solo,singapore
+user16,85 Beach Garden Hotel,7,1935,0.2,0.2,0.2,0.2,0.2,business,couple,singapore
+user16,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user16,5footway.inn Project Chinatown 1,7,2973,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user16,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user16,Aqueen Hotel Balestier,8,2434,0.215686275,0.392156863,0.078431373,0.137254902,0.176470588,leisure,couple,singapore
+user16,Sleepy Kiwi Boutique Hostel & Bar,7,2060,0.229885057,0.229885057,0.229885057,0.103448276,0.206896552,business,couple,singapore
+user16,Peninsula Excelsior Hotel,8,4435,0.21978022,0.21978022,0.21978022,0.21978022,0.120879121,leisure,solo,singapore
+user16,Village Hotel Albert Court by Far East Hospitality,8,7303,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,leisure,friend,singapore
+user16,Pine Hostel - By Just Inn,8,1138,0.220588235,0.294117647,0.191176471,0.102941176,0.191176471,leisure,couple,singapore
+user16,Fragrance Hotel - Ruby,7,1549,0.263157895,0.350877193,0.157894737,0.01754386,0.210526316,leisure,couple,singapore
+user16,Hotel 81 Tristar,7,4624,0.288461538,0.384615385,0.038461538,0.153846154,0.134615385,leisure,friend,singapore
+user16,Hotel 81 Changi,7,4200,0.348837209,0.465116279,0.023255814,0.069767442,0.093023256,business,family,singapore
+user16,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user16,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user16,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user17,Furama City Centre,8,8417,0.175257732,0.206185567,0.206185567,0.206185567,0.206185567,leisure,friend,singapore
+user17,Carlton City Hotel Singapore,9,10236,0.222222222,0.222222222,0.222222222,0.122222222,0.211111111,business,family,singapore
+user17,Hotel 165,6,2497,0.181818182,0.303030303,0.196969697,0.151515152,0.166666667,leisure,couple,singapore
+user17,G4 Station Backpackers' Hostel,8,2921,0.152173913,0.217391304,0.195652174,0.217391304,0.217391304,leisure,family,singapore
+user17,Ascott Orchard Singapore,9,18725,0.091954023,0.229885057,0.229885057,0.229885057,0.218390805,business,friend,singapore
+user17,Meadows Hostel,8,549,0.227272727,0.303030303,0.181818182,0.106060606,0.181818182,leisure,solo,singapore
+user17,Fort Canning Lodge,7,3639,0.173913043,0.289855072,0.217391304,0.217391304,0.101449275,leisure,solo,singapore
+user17,The Metropolitan Y,7,2796,0.434782609,0.52173913,0,0,0.043478261,business,couple,singapore
+user17,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user17,Village Hotel Katong by Far East Hospitality,9,4744,0.183098592,0.281690141,0.154929577,0.267605634,0.112676056,business,family,singapore
+user17,Hotel 81 Classic,7,2949,0.274509804,0.392156863,0.039215686,0.156862745,0.137254902,business,family,singapore
+user17,Betel Box Backpackers Hostel,8,499,0.195121951,0.487804878,0.073170732,0.097560976,0.146341463,leisure,solo,singapore
+user17,Joyfor Backpackers' Hostel,8,499,0.354166667,0.416666667,0.041666667,0.020833333,0.166666667,business,solo,singapore
+user17,J8 Hotel,7,5727,0.171875,0.3125,0.171875,0.125,0.21875,leisure,friend,singapore
+user17,ZEN Rooms Bukit Merah,7,2292,0.541666667,0.291666667,0,0,0.166666667,business,solo,singapore
+user17,Moon 23 Hotel,7,2699,0.182926829,0.243902439,0.097560976,0.231707317,0.243902439,leisure,solo,singapore
+user17,Porcelain Hotel by JL Asia,7,2334,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user17,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user17,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user17,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user17,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user18,Hotel 81 Rochor,7,2312,0.217391304,0.217391304,0.130434783,0.217391304,0.217391304,business,couple,singapore
+user18,Santa Grand Hotel East Coast,8,3033,0.228571429,0.285714286,0.128571429,0.185714286,0.171428571,leisure,solo,singapore
+user18,Fragrance Hotel - Crystal,7,1661,0.212765957,0.425531915,0.127659574,0,0.234042553,business,couple,singapore
+user18,ZEN Rooms Temple Street,7,2271,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user18,Asphodel Inn,7,2015,0.333333333,0.350877193,0.140350877,0.070175439,0.105263158,business,couple,singapore
+user18,Fragrance Hotel - Ocean View,7,3244,0.472222222,0.5,0,0,0.027777778,business,couple,singapore
+user18,Arena Suites,7,4694,0.65,0.3,0.05,0,0,business,solo,singapore
+user18,Hotel 81 Heritage,7,2524,0.227272727,0.227272727,0.227272727,0.090909091,0.227272727,business,couple,singapore
+user18,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user18,5footway.inn Project Chinatown 1,7,2973,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user18,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user18,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user18,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user18,Champion Hotel,8,4508,0.227272727,0.454545455,0.022727273,0.159090909,0.136363636,leisure,friend,singapore
+user18,"Footprints Hostel, Singapore",8,549,0.168674699,0.240963855,0.108433735,0.240963855,0.240963855,business,solo,singapore
+user18,PARKROYAL on Kitchener Road,8,8489,0.19047619,0.317460317,0.206349206,0.158730159,0.126984127,leisure,family,singapore
+user18,Mitraa Inn,8,2077,0.327586207,0.344827586,0.137931034,0.068965517,0.120689655,business,family,singapore
+user18,Hotel 81 Rochor,7,2312,0.217391304,0.217391304,0.130434783,0.217391304,0.217391304,leisure,couple,singapore
+user18,Hotel 81 Changi,7,4200,0.348837209,0.465116279,0.023255814,0.069767442,0.093023256,leisure,family,singapore
+user18,Ambassador Transit Hotel - Terminal 2,8,1373,0.175,0.5,0.2,0.05,0.075,leisure,solo,singapore
+user18,Hotel Kai,8,2771,0.206185567,0.206185567,0.206185567,0.206185567,0.175257732,business,solo,singapore
+user18,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user18,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user19,Pillow Talk Hostel,7,3895,0.227272727,0.303030303,0.181818182,0.106060606,0.181818182,leisure,friend,singapore
+user19,Santa Grand Hotel Little India,7,2334,0.16,0.266666667,0.133333333,0.2,0.24,leisure,couple,singapore
+user19,ZEN Rooms Temple Street,7,4541,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user19,Dorsett Singapore,8,4893,0.253164557,0.253164557,0.253164557,0.113924051,0.126582278,business,solo,singapore
+user19,Furama RiverFront,8,4075,0.307692308,0.384615385,0.096153846,0.115384615,0.096153846,business,solo,singapore
+user19,Moon 23 Hotel,7,2699,0.182926829,0.243902439,0.097560976,0.231707317,0.243902439,leisure,couple,singapore
+user19,Betel Box Backpackers Hostel,8,999,0.195121951,0.487804878,0.073170732,0.097560976,0.146341463,business,couple,singapore
+user19,5footway.inn Project Chinatown 1,7,2973,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user19,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user19,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user19,Aqueen Heritage Hotel Joo Chiat,8,2497,0.195121951,0.487804878,0.024390244,0.146341463,0.146341463,leisure,solo,singapore
+user19,Chinatown Hotel,7,2651,0.17721519,0.253164557,0.151898734,0.253164557,0.164556962,leisure,couple,singapore
+user19,Holiday Inn Singapore Atrium,8,4294,0.3,0.4,0.12,0.1,0.08,business,couple,singapore
+user19,Aljunied@SG,7,2222,0.363636364,0.363636364,0.163636364,0.036363636,0.072727273,leisure,friend,singapore
+user19,W Singapore - Sentosa Cove,8.5,11734,0.083333333,0.833333333,0,0.041666667,0.041666667,leisure,family,singapore
+user19,Grand Park City Hall,7,15354,0.21978022,0.21978022,0.21978022,0.21978022,0.120879121,business,friend,singapore
+user19,Plush Pods,6.5,949,0.2,0.2,0.2,0.2,0.2,leisure,solo,singapore
+user19,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user19,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user2,Nano Hostel,7,1688,0.363636364,0.363636364,0.163636364,0.036363636,0.072727273,leisure,friend,singapore
+user2,Santa Grand Hotel Bugis,7,2122,0.243902439,0.243902439,0.219512195,0.085365854,0.207317073,business,couple,singapore
+user2,The Southbridge Hotel,8,2996,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user2,Parc Sovereign Hotel - Albert St,7,3164,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user2,The Inn at Temple Street,7,2673,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,couple,singapore
+user2,Asphodel Inn,7,2015,0.333333333,0.350877193,0.140350877,0.070175439,0.105263158,business,solo,singapore
+user2,Coziee Lodge,8,1743,0.347826087,0.434782609,0.043478261,0.02173913,0.152173913,leisure,friend,singapore
+user2,Fragrance Hotel - Balestier,7.5,2544,0.211538462,0.384615385,0.057692308,0.153846154,0.192307692,business,family,singapore
+user2,Jayleen 1918,7,3076,0.202020202,0.202020202,0.202020202,0.202020202,0.191919192,leisure,solo,singapore
+user2,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user2,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user2,Rucksack Inn@Mackenzie,8,3168,0.152173913,0.217391304,0.195652174,0.217391304,0.217391304,business,couple,singapore
+user2,Park 22 Hotel Little India,7,2653,0.215384615,0.307692308,0.107692308,0.138461538,0.230769231,business,couple,singapore
+user2,Sofitel Singapore Sentosa Resort & Spa,8.5,16478,0.444444444,0.555555556,0,0,0,business,family,singapore
+user2,Park 22 Hotel Chinatown,7,1818,0.195876289,0.206185567,0.206185567,0.18556701,0.206185567,business,solo,singapore
+user2,Park Avenue Changi,8,4449,0.263157895,0.526315789,0,0.157894737,0.052631579,business,couple,singapore
+user2,ZEN Rooms Suntec,8,3459,0.206185567,0.206185567,0.206185567,0.206185567,0.175257732,leisure,solo,singapore
+user2,ABC Premium Hostel,8,1498,0.215686275,0.392156863,0.117647059,0.156862745,0.117647059,business,couple,singapore
+user2,Classique Hotel,7,1697,0.151515152,0.303030303,0.181818182,0.166666667,0.196969697,business,couple,singapore
+user2,Grand Park City Hall,7,7115,0.21978022,0.21978022,0.21978022,0.21978022,0.120879121,leisure,couple,singapore
+user2,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user2,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user2,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user20,Park Avenue Rochester,8,5443,0.255813953,0.465116279,0.046511628,0.093023256,0.139534884,business,family,singapore
+user20,Genting Hotel Jurong,7.5,4269,0.294117647,0.392156863,0.039215686,0.156862745,0.117647059,leisure,couple,singapore
+user20,The Inn at Temple Street,7,3436,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,family,singapore
+user20,Hotel 81 Osaka,7,5049,0.205128205,0.512820513,0.025641026,0.051282051,0.205128205,business,friend,singapore
+user20,Le Peranakan Hotel,6,1997,0.422222222,0.444444444,0.022222222,0,0.111111111,business,couple,singapore
+user20,Fragrance Hotel - Imperial,7,2371,0.290322581,0.322580645,0.096774194,0.096774194,0.193548387,business,solo,singapore
+user20,New Cape Inn,7,4993,0.224489796,0.408163265,0.102040816,0.102040816,0.163265306,business,friend,singapore
+user20,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user20,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user20,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user20,Hotel Royal,7,3745,0.1875,0.25,0.1375,0.25,0.175,business,solo,singapore
+user20,Hilton Singapore,8,7640,0.178571429,0.238095238,0.214285714,0.238095238,0.130952381,leisure,couple,singapore
+user20,Singapore Marriott Tang Plaza Hotel,8,8489,0.147727273,0.227272727,0.204545455,0.204545455,0.215909091,leisure,couple,singapore
+user20,The Haven by JetQuay,7.5,11235,0.157894737,0.526315789,0.157894737,0.052631579,0.105263158,leisure,family,singapore
+user20,Backpackers@SG,8,1099,0.266666667,0.333333333,0.116666667,0.066666667,0.216666667,leisure,couple,singapore
+user20,Kallang River Backpackers,5,1318,0.3,0.5,0.05,0.025,0.125,leisure,friend,singapore
+user20,Porcelain Hotel by JL Asia,7,2334,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user20,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user20,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user20,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user20,Moni Gallery Hostel,7,350,0.283018868,0.377358491,0.150943396,0.056603774,0.132075472,leisure,solo,singapore
+user20,Fragrance Hotel - Lavender,6,3477,0.283333333,0.333333333,0.1,0.083333333,0.2,business,solo,singapore
+user20,Pan Pacific Orchard,8,14730,0.115384615,0.256410256,0.243589744,0.256410256,0.128205128,leisure,friend,singapore
+user20,G4 Station Backpackers' Hostel,8,2921,0.152173913,0.217391304,0.195652174,0.217391304,0.217391304,leisure,family,singapore
+user20,Fragrance Hotel - Crystal,7,1661,0.212765957,0.425531915,0.127659574,0,0.234042553,leisure,couple,singapore
+user20,Le Peranakan Hotel,6,1997,0.422222222,0.444444444,0.022222222,0,0.111111111,leisure,couple,singapore
+user20,Fragrance Hotel - Balestier,7.5,2544,0.211538462,0.384615385,0.057692308,0.153846154,0.192307692,leisure,family,singapore
+user20,Dorsett Singapore,8,4893,0.253164557,0.253164557,0.253164557,0.113924051,0.126582278,business,solo,singapore
+user20,Santa Grand Hotel Lai Chun Yuen,7,2439,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,couple,singapore
+user20,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user20,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user21,Value Hotel Balestier,7,2312,0.215686275,0.392156863,0.058823529,0.137254902,0.196078431,leisure,solo,singapore
+user21,Furama RiverFront,8,4075,0.307692308,0.384615385,0.096153846,0.115384615,0.096153846,business,solo,singapore
+user21,Holiday Inn Singapore Orchard City Centre,9,5917,0.08974359,0.256410256,0.256410256,0.256410256,0.141025641,leisure,solo,singapore
+user21,Rendezvous Hotel Singapore by Far East Hospitality,8,5742,0.210526316,0.210526316,0.210526316,0.210526316,0.157894737,business,family,singapore
+user21,Coziee Lodge,8,436,0.347826087,0.434782609,0.043478261,0.02173913,0.152173913,business,solo,singapore
+user21,Amara Singapore,8,4307,0.23255814,0.23255814,0.220930233,0.127906977,0.186046512,business,solo,singapore
+user21,Adamson Inn,8,3370,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,business,family,singapore
+user21,Sleepy Kiwi Boutique Hostel & Bar,7,2060,0.229885057,0.229885057,0.229885057,0.103448276,0.206896552,business,couple,singapore
+user21,Beary Best! by a beary good hostel,8,2252,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,couple,singapore
+user21,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user21,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user21,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user21,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user22,Hotel Chancellor@Orchard,7,6325,0.1125,0.25,0.25,0.25,0.1375,business,family,singapore
+user22,Sheraton Towers Singapore Hotel,8,6741,0.28125,0.625,0,0.03125,0.0625,business,couple,singapore
+user22,Holiday Inn Express Singapore Orchard Road,8,5842,0.112359551,0.224719101,0.224719101,0.224719101,0.213483146,leisure,solo,singapore
+user22,PARKROYAL on Beach Road,8,4669,0.234567901,0.24691358,0.24691358,0.098765432,0.172839506,leisure,solo,singapore
+user22,The Southbridge Hotel,8,2447,0.2,0.2,0.2,0.2,0.2,leisure,solo,singapore
+user22,Travellers Loft @ Jalan Besar,6.5,1231,0.169014085,0.281690141,0.197183099,0.154929577,0.197183099,business,couple,singapore
+user22,ZEN Rooms People's Park Complex,7,2525,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user22,Park 22 Hotel Little India,7,6242,0.215384615,0.307692308,0.107692308,0.138461538,0.230769231,business,friend,singapore
+user22,The Elizabeth Hotel by Far East Hospitality,8,5992,0.089285714,0.357142857,0.125,0.267857143,0.160714286,leisure,family,singapore
+user22,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user22,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user22,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user23,Fragrance Hotel - Royal,7,2433,0.421052632,0.263157895,0,0.105263158,0.210526316,business,couple,singapore
+user23,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user23,Grand Hyatt Singapore,8,11984,0.117647059,0.235294118,0.211764706,0.211764706,0.223529412,leisure,family,singapore
+user23,Hotel Jen Tanglin Singapore by Shangri-la,8.5,8489,0.307692308,0.512820513,0.051282051,0.076923077,0.051282051,leisure,family,singapore
+user23,Maple Lodge @ Chinatown,8,899,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,couple,singapore
+user23,Fort Canning Lodge,7,3639,0.173913043,0.289855072,0.217391304,0.217391304,0.101449275,business,solo,singapore
+user23,Bay Hotel Singapore,8,5368,0.166666667,0.416666667,0.145833333,0.1875,0.083333333,leisure,family,singapore
+user23,Grand Park Orchard,8,7428,0.134146341,0.243902439,0.146341463,0.243902439,0.231707317,leisure,couple,singapore
+user23,Le Peranakan Hotel,6,1997,0.422222222,0.444444444,0.022222222,0,0.111111111,business,couple,singapore
+user23,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user23,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user23,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user24,Venue Hotel The Lily,7.5,2248,0.243243243,0.540540541,0.081081081,0.027027027,0.108108108,leisure,couple,singapore
+user24,Park 22 Hotel Chinatown,7,1818,0.195876289,0.206185567,0.206185567,0.18556701,0.206185567,leisure,solo,singapore
+user24,The Fullerton Hotel Singapore,9,13682,0.117647059,0.294117647,0.279411765,0.088235294,0.220588235,leisure,family,singapore
+user24,Ark Hostel,8.5,2996,0.340425532,0.425531915,0.042553191,0.021276596,0.170212766,business,family,singapore
+user24,ZEN Rooms Arab Street,8,2483,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,business,couple,singapore
+user24,Fragrance Hotel - Kovan,6.5,3010,0.288888889,0.444444444,0.088888889,0.088888889,0.088888889,business,couple,singapore
+user24,Hotel Bencoolen Singapore,7,5742,0.204081633,0.204081633,0.204081633,0.204081633,0.183673469,leisure,family,singapore
+user24,Moon 23 Hotel,7,5398,0.182926829,0.243902439,0.097560976,0.231707317,0.243902439,leisure,family,singapore
+user24,Singapore Marriott Tang Plaza Hotel,8,8489,0.147727273,0.227272727,0.204545455,0.204545455,0.215909091,business,couple,singapore
+user24,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user24,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user24,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user25,Central 65 Hostel,7,599,0.203125,0.3125,0.125,0.15625,0.203125,business,solo,singapore
+user25,Perak Hotel,7.5,2716,0.213483146,0.224719101,0.112359551,0.224719101,0.224719101,business,couple,singapore
+user25,Hotel 81 Lucky,7,1697,0.236363636,0.363636364,0.163636364,0.018181818,0.218181818,business,solo,singapore
+user25,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user25,Pasir Panjang Inn,7,2503,0.461538462,0.512820513,0,0,0.025641026,business,couple,singapore
+user25,Mandarin Orchard Singapore,8,6494,0.125,0.25,0.1375,0.25,0.2375,business,couple,singapore
+user25,The Club Residences by Capella Singapore,9,15279,0.346153846,0.576923077,0,0,0.076923077,leisure,family,singapore
+user25,ZEN Rooms Mackenzie,7,1804,0.152173913,0.217391304,0.195652174,0.217391304,0.217391304,leisure,couple,singapore
+user25,Mandarin Orchard Singapore,8,6494,0.125,0.25,0.1375,0.25,0.2375,leisure,solo,singapore
+user25,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user25,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user25,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user26,Central 65 Hostel,7,4993,0.203125,0.3125,0.125,0.15625,0.203125,business,couple,singapore
+user26,Hotel Jen Orchardgateway Singapore by Shangri-La,9,11460,0.098765432,0.24691358,0.24691358,0.24691358,0.160493827,business,friend,singapore
+user26,Hotel 81 Sakura,7,1888,0.225,0.5,0.075,0.075,0.125,business,couple,singapore
+user26,Hotel 165,6,2497,0.181818182,0.303030303,0.196969697,0.151515152,0.166666667,leisure,couple,singapore
+user26,D'Resort @ Downtown East,8,3970,0.161290323,0.64516129,0.096774194,0.064516129,0.032258065,business,family,singapore
+user26,City Backpackers @ Hongkong Street,7,2442,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user26,Premier Inn Singapore Beach Road,8,3247,0.2,0.25,0.25,0.1125,0.1875,business,solo,singapore
+user26,Champion Hotel,8,1857,0.227272727,0.454545455,0.022727273,0.159090909,0.136363636,leisure,solo,singapore
+user26,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user27,The Club Residences by Capella Singapore,9,15279,0.346153846,0.576923077,0,0,0.076923077,business,family,singapore
+user27,Jinshan Hotel,7,2444,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user27,Park Avenue Rochester,8,5443,0.255813953,0.465116279,0.046511628,0.093023256,0.139534884,business,family,singapore
+user27,Ambassador Transit Hotel - Terminal 2,8,1373,0.175,0.5,0.2,0.05,0.075,leisure,solo,singapore
+user27,Pillow Talk Hostel,7,624,0.227272727,0.303030303,0.181818182,0.106060606,0.181818182,leisure,solo,singapore
+user27,V Hotel Lavender,7,4179,0.288135593,0.338983051,0.06779661,0.101694915,0.203389831,business,family,singapore
+user27,Ambassador Transit Hotel - Terminal 2,8,2746,0.175,0.5,0.2,0.05,0.075,business,couple,singapore
+user27,Moni Gallery Hostel,7,350,0.283018868,0.377358491,0.150943396,0.056603774,0.132075472,business,solo,singapore
+user27,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user27,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user27,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user27,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user28,Hotel 81 Dickson,7,2312,0.215909091,0.227272727,0.102272727,0.227272727,0.227272727,leisure,solo,singapore
+user28,ZEN Rooms Balestier,8,5051,0.24,0.4,0.06,0.14,0.16,leisure,friend,singapore
+user28,Bay Hotel Singapore,8,4294,0.166666667,0.416666667,0.145833333,0.1875,0.083333333,business,solo,singapore
+user28,New Cape Inn,7,4993,0.224489796,0.408163265,0.102040816,0.102040816,0.163265306,business,friend,singapore
+user28,Bliss Hotel Singapore,8,7233,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,business,friend,singapore
+user28,Hotel 81 Cosy,7,2524,0.215053763,0.215053763,0.215053763,0.150537634,0.204301075,business,couple,singapore
+user28,Orchid Country Club,8,4194,0.333333333,0.583333333,0.083333333,0,0,business,couple,singapore
+user28,Fragrance Hotel - Ruby,7,1549,0.263157895,0.350877193,0.157894737,0.01754386,0.210526316,business,couple,singapore
+user28,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user28,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user28,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user29,Fragrance Hotel - Royal,7,2433,0.421052632,0.263157895,0,0.105263158,0.210526316,leisure,couple,singapore
+user29,Coziee Lodge,8,1743,0.347826087,0.434782609,0.043478261,0.02173913,0.152173913,business,friend,singapore
+user29,One Farrer Hotel & Spa,9,6491,0.2,0.363636364,0.145454545,0.163636364,0.127272727,business,family,singapore
+user29,Sheraton Towers Singapore Hotel,8,13482,0.28125,0.625,0,0.03125,0.0625,business,friend,singapore
+user29,Hotel Clover 33 Jalan Sultan,8,3056,0.227272727,0.227272727,0.227272727,0.090909091,0.227272727,business,couple,singapore
+user29,May & May Hostel,7,574,0.4,0.4,0,0.08,0.12,leisure,solo,singapore
+user29,Santa Grand Hotel Bugis,7,2122,0.243902439,0.243902439,0.219512195,0.085365854,0.207317073,business,solo,singapore
+user29,Hotel Royal @ Queens,7.5,4457,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user29,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user29,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user3,The Fragrance Hotel (Joo Chiat),8,1960,0.256410256,0.512820513,0.102564103,0.025641026,0.102564103,leisure,couple,singapore
+user3,The Elizabeth Hotel by Far East Hospitality,8,4794,0.089285714,0.357142857,0.125,0.267857143,0.160714286,business,solo,singapore
+user3,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user3,Kallang River Backpackers,5,1318,0.3,0.5,0.05,0.025,0.125,leisure,friend,singapore
+user3,Singapore Marriott Tang Plaza Hotel,8,8489,0.147727273,0.227272727,0.204545455,0.204545455,0.215909091,business,couple,singapore
+user3,Arton Boutique Hotel,8,2673,0.253968254,0.317460317,0.158730159,0.095238095,0.174603175,leisure,solo,singapore
+user3,Quarters Hostel,8,3411,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user3,Pine Hostel - By Just Inn,8,1138,0.220588235,0.294117647,0.191176471,0.102941176,0.191176471,business,couple,singapore
+user3,Porcelain Hotel by JL Asia,7,2631,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,couple,singapore
+user3,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user3,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user3,Orchid Country Club,8,4194,0.333333333,0.583333333,0.083333333,0,0,business,couple,singapore
+user3,Village Hotel Changi by Far East Hospitality,8,3495,0.324324324,0.540540541,0.054054054,0,0.081081081,leisure,couple,singapore
+user3,The Inn at Temple Street,7,3436,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,family,singapore
+user3,Four Seasons Hotel Singapore,9,12833,0.1625,0.25,0.225,0.25,0.1125,business,family,singapore
+user3,Mitraa Inn,8,2077,0.327586207,0.344827586,0.137931034,0.068965517,0.120689655,leisure,family,singapore
+user3,Fragrance Hotel - Riverside,7,2689,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user3,Hotel Clover 33 Jalan Sultan,8,3056,0.227272727,0.227272727,0.227272727,0.090909091,0.227272727,leisure,couple,singapore
+user3,Premier Inn Singapore Beach Road,8,3247,0.2,0.25,0.25,0.1125,0.1875,business,couple,singapore
+user3,Pillow Talk Hostel,7,624,0.227272727,0.303030303,0.181818182,0.106060606,0.181818182,business,solo,singapore
+user3,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user3,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user3,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user30,MKS Backpackers Hostel - Cuff Road,6,1648,0.164556962,0.253164557,0.101265823,0.227848101,0.253164557,leisure,friend,singapore
+user30,One Farrer Hotel & Spa,9,6491,0.2,0.363636364,0.145454545,0.163636364,0.127272727,leisure,family,singapore
+user30,ZEN Rooms Evergreen Residence,7,1906,0.244897959,0.408163265,0.163265306,0.040816327,0.142857143,leisure,couple,singapore
+user30,Mandarin Orchard Singapore,8,6494,0.125,0.25,0.1375,0.25,0.2375,leisure,couple,singapore
+user30,Rucksack Inn @ Lavender Street,8,563,0.298245614,0.350877193,0.157894737,0.070175439,0.122807018,leisure,solo,singapore
+user30,Hilton Singapore,8,7215,0.178571429,0.238095238,0.214285714,0.238095238,0.130952381,business,solo,singapore
+user30,Fragrance Hotel - Classic,7,2217,0.235294118,0.392156863,0.078431373,0.137254902,0.156862745,business,solo,singapore
+user30,"Siloso Beach Resort, Sentosa",7,4269,0.043478261,0.869565217,0,0.043478261,0.043478261,leisure,solo,singapore
+user30,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user30,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user30,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user31,AMOY by Far East Hospitality,9,13482,0.166666667,0.208333333,0.208333333,0.208333333,0.208333333,business,friend,singapore
+user31,Grand Park Orchard,8,7428,0.134146341,0.243902439,0.146341463,0.243902439,0.231707317,business,couple,singapore
+user31,Rucksack Inn @ Lavender Street,8,563,0.298245614,0.350877193,0.157894737,0.070175439,0.122807018,business,solo,singapore
+user31,Hotel 81 Rochor,7,2312,0.217391304,0.217391304,0.130434783,0.217391304,0.217391304,business,couple,singapore
+user31,Raffles Singapore,9,39946,0.217391304,0.217391304,0.206521739,0.217391304,0.141304348,leisure,friend,singapore
+user31,Hotel Clover 7,8,3076,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user31,Hotel Royal,7,3745,0.1875,0.25,0.1375,0.25,0.175,business,solo,singapore
+user31,The Daulat,8,3732,0.215053763,0.215053763,0.139784946,0.215053763,0.215053763,business,solo,singapore
+user31,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user31,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,leisure,solo,singapore
+user31,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user32,Arena Suites,7,4694,0.65,0.3,0.05,0,0,business,family,singapore
+user32,Hotel Fort Canning,9,13282,0.212121212,0.303030303,0.196969697,0.166666667,0.121212121,leisure,family,singapore
+user32,"The InnCrowd Backpackers' Hostel, Singapore",8,1897,0.215909091,0.227272727,0.102272727,0.227272727,0.227272727,business,friend,singapore
+user32,Genting Hotel Jurong,7.5,4269,0.294117647,0.392156863,0.039215686,0.156862745,0.117647059,leisure,solo,singapore
+user32,Fragrance Hotel - Royal,7,3244,0.421052632,0.263157895,0,0.105263158,0.210526316,business,family,singapore
+user32,ABC Premium Hostel,8,1498,0.215686275,0.392156863,0.117647059,0.156862745,0.117647059,business,couple,singapore
+user32,Copthorne King's Hotel,8,4154,0.3,0.4,0.1,0.12,0.08,leisure,solo,singapore
+user32,Fragrance Hotel - Crystal,7,3509,0.212765957,0.425531915,0.127659574,0,0.234042553,leisure,friend,singapore
+user32,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user32,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user33,Blissful Loft,7,1335,0.2,0.2,0.2,0.2,0.2,business,couple,singapore
+user33,Changi Cove,8,2696,0.285714286,0.714285714,0,0,0,business,solo,singapore
+user33,Park 22 Hotel Little India,7,2653,0.215384615,0.307692308,0.107692308,0.138461538,0.230769231,leisure,couple,singapore
+user33,Ascott Raffles Place Singapore,9,19973,0.217948718,0.256410256,0.102564103,0.179487179,0.243589744,leisure,friend,singapore
+user33,Coziee Lodge,8,871,0.347826087,0.434782609,0.043478261,0.02173913,0.152173913,leisure,couple,singapore
+user33,Four Seasons Hotel Singapore,9,12833,0.1625,0.25,0.225,0.25,0.1125,leisure,family,singapore
+user33,Arton Boutique Hotel,8,2673,0.253968254,0.317460317,0.158730159,0.095238095,0.174603175,leisure,solo,singapore
+user33,Box Capsule Hostel,8,854,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user33,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user33,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user34,ZEN Rooms Arab Street,8,2483,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,leisure,couple,singapore
+user34,Five Stones Hostel,8,2122,0.243902439,0.243902439,0.243902439,0.085365854,0.182926829,leisure,couple,singapore
+user34,Kam Leng Hotel by JL Asia,7,1977,0.232142857,0.357142857,0.160714286,0.089285714,0.160714286,leisure,solo,singapore
+user34,ZEN Rooms Mackenzie,7,3608,0.152173913,0.217391304,0.195652174,0.217391304,0.217391304,business,friend,singapore
+user34,Pine Hostel - By Just Inn,8,1138,0.220588235,0.294117647,0.191176471,0.102941176,0.191176471,business,couple,singapore
+user34,Backpackers@SG,8,1099,0.266666667,0.333333333,0.116666667,0.066666667,0.216666667,leisure,couple,singapore
+user34,"Four Points by Sheraton Singapore, Riverview",8,3695,0.255319149,0.425531915,0.106382979,0.127659574,0.085106383,business,solo,singapore
+user34,Arianna Hotel,5.5,1598,0.147540984,0.327868852,0.213114754,0.180327869,0.131147541,leisure,couple,singapore
+user34,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user34,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user34,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user35,Raintr33 Hotel Singapore,7,6741,0.434782609,0.565217391,0,0,0,business,friend,singapore
+user35,Holiday Inn Singapore Atrium,8,4294,0.3,0.4,0.12,0.1,0.08,leisure,solo,singapore
+user35,The Daulat,8,3732,0.215053763,0.215053763,0.139784946,0.215053763,0.215053763,leisure,couple,singapore
+user35,Kawan Hostel,7,360,0.215909091,0.227272727,0.102272727,0.227272727,0.227272727,business,solo,singapore
+user35,Genting Hotel Jurong,7.5,4269,0.294117647,0.392156863,0.039215686,0.156862745,0.117647059,leisure,couple,singapore
+user35,Park Avenue Changi,8,4943,0.263157895,0.526315789,0,0.157894737,0.052631579,business,family,singapore
+user35,Marrison Hotel,7,2345,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user35,Santa Grand Hotel Little India,7,2016,0.16,0.266666667,0.133333333,0.2,0.24,business,solo,singapore
+user35,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user35,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user35,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user36,Arianna Hotel,5.5,3196,0.147540984,0.327868852,0.213114754,0.180327869,0.131147541,leisure,friend,singapore
+user36,J8 Hotel,7,2864,0.171875,0.3125,0.171875,0.125,0.21875,business,couple,singapore
+user36,Hotel 81 - Premier Star,7,1803,0.2,0.4,0.14,0.02,0.24,leisure,solo,singapore
+user36,85 Beach Garden Hotel,7,1935,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user36,Hotel 81 Osaka,7,5049,0.205128205,0.512820513,0.025641026,0.051282051,0.205128205,business,family,singapore
+user36,Hotel Chancellor@Orchard,7,6325,0.1125,0.25,0.25,0.25,0.1375,leisure,family,singapore
+user36,Royal Plaza on Scotts,8.5,5742,0.117647059,0.235294118,0.235294118,0.211764706,0.2,business,family,singapore
+user36,The Inn at Temple Street,7,2673,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,couple,singapore
+user36,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user36,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user37,Regin Hotel,6.5,2333,0.274509804,0.392156863,0.078431373,0,0.254901961,business,couple,singapore
+user37,New Society Backpackers Hostel,7,1091,0.185714286,0.285714286,0.157142857,0.157142857,0.214285714,leisure,couple,singapore
+user37,Parkroyal on Pickering,9,13232,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,family,singapore
+user37,Meadows Hostel,8,549,0.227272727,0.303030303,0.181818182,0.106060606,0.181818182,business,solo,singapore
+user37,Aqueen Hotel Paya Lebar,8,6491,0.272727273,0.454545455,0,0.136363636,0.136363636,business,family,singapore
+user37,Hotel 81 Selegie,7,2312,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,leisure,couple,singapore
+user37,Quality Hotel Marlow,7,3164,0.254901961,0.392156863,0.058823529,0.137254902,0.156862745,business,couple,singapore
+user37,"Siloso Beach Resort, Sentosa",7,4269,0.043478261,0.869565217,0,0.043478261,0.043478261,business,solo,singapore
+user37,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user37,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,leisure,solo,singapore
+user37,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user37,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user38,Grand Park City Hall,7,10361,0.21978022,0.21978022,0.21978022,0.21978022,0.120879121,business,family,singapore
+user38,Sofitel Singapore Sentosa Resort & Spa,8.5,61417,0.444444444,0.555555556,0,0,0,business,friend,singapore
+user38,D'Kranji Farm Resort,7,7490,0,1,0,0,0,business,friend,singapore
+user38,ZEN Rooms Suntec,8,3459,0.206185567,0.206185567,0.206185567,0.206185567,0.175257732,business,solo,singapore
+user38,New Orchid Hotel,5,2121,0.218181818,0.363636364,0.054545455,0.145454545,0.218181818,leisure,couple,singapore
+user38,Golden Royal Hotel,7,2439,0.127272727,0.363636364,0.2,0.254545455,0.054545455,business,solo,singapore
+user38,Premier Inn Singapore Beach Road,8,3247,0.2,0.25,0.25,0.1125,0.1875,business,couple,singapore
+user38,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,leisure,solo,singapore
+user38,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user38,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user39,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user39,PARKROYAL on Kitchener Road,8,3795,0.19047619,0.317460317,0.206349206,0.158730159,0.126984127,business,solo,singapore
+user39,Champion Hotel,8,4508,0.227272727,0.454545455,0.022727273,0.159090909,0.136363636,business,friend,singapore
+user39,Grand Mercure Singapore Roxy,8,7515,0.202702703,0.27027027,0.148648649,0.256756757,0.121621622,business,friend,singapore
+user39,Park Hotel Clarke Quay,8,6262,0.154929577,0.281690141,0.281690141,0.14084507,0.14084507,leisure,solo,singapore
+user39,Checkers Backpackers,7,2696,0.213483146,0.224719101,0.112359551,0.224719101,0.224719101,leisure,friend,singapore
+user39,Hotel Royal @ Queens,7.5,4457,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user39,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user39,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user39,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user39,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user4,The Sultan,8,6045,0.227272727,0.227272727,0.227272727,0.090909091,0.227272727,leisure,family,singapore
+user4,Santa Grand Hotel Bugis,7,2829,0.243902439,0.243902439,0.219512195,0.085365854,0.207317073,business,family,singapore
+user4,Mercure Singapore Bugis,8,3755,0.2,0.2,0.2,0.2,0.2,leisure,solo,singapore
+user4,V Hotel Bencoolen,7,7127,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user4,Changi Cove,8,2696,0.285714286,0.714285714,0,0,0,leisure,solo,singapore
+user4,Parkroyal on Pickering,9,13232,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,family,singapore
+user4,Coziee Lodge,8,871,0.347826087,0.434782609,0.043478261,0.02173913,0.152173913,leisure,couple,singapore
+user4,Aqueen Jalan Besar Hotel,7,3745,0.136363636,0.303030303,0.196969697,0.166666667,0.196969697,business,family,singapore
+user4,Tai Hoe Hotel,7,2100,0.171875,0.3125,0.1875,0.15625,0.171875,leisure,couple,singapore
+user4,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user4,85 Beach Garden Hotel,7,1935,0.2,0.2,0.2,0.2,0.2,business,couple,singapore
+user4,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user4,Ibis Singapore on Bencoolen,8,2876,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user4,Hilton Singapore,8,7640,0.178571429,0.238095238,0.214285714,0.238095238,0.130952381,business,couple,singapore
+user4,The Fullerton Bay Hotel Singapore,9,35278,0.163636364,0.363636364,0.127272727,0.109090909,0.236363636,business,family,singapore
+user4,Amara Sanctuary Resort Sentosa,7.5,6204,0.2,0.666666667,0,0,0.133333333,business,couple,singapore
+user4,Santa Grand Hotel Lai Chun Yuen,7,4878,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,leisure,friend,singapore
+user4,Pan Pacific Orchard,8,7365,0.115384615,0.256410256,0.243589744,0.256410256,0.128205128,business,family,singapore
+user4,Fragrance Hotel - Royal,7,2433,0.421052632,0.263157895,0,0.105263158,0.210526316,leisure,solo,singapore
+user4,Harbour Ville Hotel,7,2142,0.541666667,0.291666667,0,0,0.166666667,leisure,couple,singapore
+user4,ZEN Rooms Farrer Park,7,1867,0.232142857,0.357142857,0.160714286,0.089285714,0.160714286,leisure,solo,singapore
+user4,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user4,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user4,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user40,Moon 23 Hotel,7,2699,0.182926829,0.243902439,0.097560976,0.231707317,0.243902439,business,solo,singapore
+user40,ZEN Rooms Bukit Merah,7,2292,0.541666667,0.291666667,0,0,0.166666667,leisure,solo,singapore
+user40,Grand Mercure Singapore Roxy,8,7515,0.202702703,0.27027027,0.148648649,0.256756757,0.121621622,leisure,friend,singapore
+user40,Village Hotel Albert Court by Far East Hospitality,8,7303,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,business,friend,singapore
+user40,Studio M Hotel,8,4294,0.150943396,0.377358491,0.188679245,0.150943396,0.132075472,business,couple,singapore
+user40,Park View Hotel,7,2472,0.226190476,0.238095238,0.05952381,0.238095238,0.238095238,leisure,solo,singapore
+user40,Singapore Marriott Tang Plaza Hotel,8,8489,0.147727273,0.227272727,0.204545455,0.204545455,0.215909091,leisure,couple,singapore
+user40,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user40,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user41,City Backpackers @ Kallang,5,1258,0.317073171,0.487804878,0.048780488,0.024390244,0.12195122,business,friend,singapore
+user41,Aqueen Hotel Balestier,8,2434,0.215686275,0.392156863,0.078431373,0.137254902,0.176470588,business,couple,singapore
+user41,Fragrance Hotel - Imperial,7,3161,0.290322581,0.322580645,0.096774194,0.096774194,0.193548387,business,family,singapore
+user41,V Hotel Bencoolen,7,7127,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user41,The Haven by JetQuay,7.5,11235,0.157894737,0.526315789,0.157894737,0.052631579,0.105263158,leisure,family,singapore
+user41,City Backpackers @ Hongkong Street,7,434,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user41,PARKROYAL on Beach Road,8,4669,0.234567901,0.24691358,0.24691358,0.098765432,0.172839506,business,couple,singapore
+user41,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,leisure,solo,singapore
+user41,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user41,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user42,Orchid Country Club,8,4194,0.333333333,0.583333333,0.083333333,0,0,leisure,couple,singapore
+user42,Coziee Lodge,8,1743,0.347826087,0.434782609,0.043478261,0.02173913,0.152173913,leisure,friend,singapore
+user42,Fragrance Hotel - Ocean View,7,3244,0.472222222,0.5,0,0,0.027777778,leisure,couple,singapore
+user42,Travellers Loft @ Lavender,7.5,374,0.293103448,0.344827586,0.155172414,0.068965517,0.137931034,leisure,solo,singapore
+user42,W Singapore - Sentosa Cove,8.5,17476,0.083333333,0.833333333,0,0.041666667,0.041666667,business,friend,singapore
+user42,Fragrance Hotel - Riverside,7,2689,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user42,Fragrance Hotel - Viva,7,3244,0.421052632,0.263157895,0,0.105263158,0.210526316,business,solo,singapore
+user42,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user42,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user42,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user43,Village Hotel Changi by Far East Hospitality,8,3495,0.324324324,0.540540541,0.054054054,0,0.081081081,business,couple,singapore
+user43,Park Avenue Changi,8,4449,0.263157895,0.526315789,0,0.157894737,0.052631579,business,solo,singapore
+user43,Amber Hotel Katong,8,2247,0.218181818,0.363636364,0.109090909,0.218181818,0.090909091,business,solo,singapore
+user43,Hotel Yan,8,2524,0.25,0.75,0,0,0,business,solo,singapore
+user43,Hotel Royal,7,7490,0.1875,0.25,0.1375,0.25,0.175,business,friend,singapore
+user43,Days Hotel Singapore at Zhongshan Park,8,3183,0.292682927,0.487804878,0.024390244,0.097560976,0.097560976,business,solo,singapore
+user43,Park Hotel Alexandra,8.5,11285,0.288888889,0.444444444,0,0.111111111,0.155555556,business,family,singapore
+user43,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,leisure,solo,singapore
+user43,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user43,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user43,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user44,Golden Royal Hotel,7,2439,0.127272727,0.363636364,0.2,0.254545455,0.054545455,leisure,solo,singapore
+user44,Hotel 81 Dickson,7,2312,0.215909091,0.227272727,0.102272727,0.227272727,0.227272727,business,solo,singapore
+user44,Hotel 81 Premier Hollywood,7,3606,0.25,0.416666667,0.083333333,0,0.25,business,friend,singapore
+user44,Tai Hoe Hotel,7,2100,0.171875,0.3125,0.1875,0.15625,0.171875,business,couple,singapore
+user44,Arianna Hotel,5.5,3196,0.147540984,0.327868852,0.213114754,0.180327869,0.131147541,business,friend,singapore
+user44,Hilton Singapore,8,7640,0.178571429,0.238095238,0.214285714,0.238095238,0.130952381,leisure,couple,singapore
+user44,The Southbridge Hotel,8,2996,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user44,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user44,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user44,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user45,Porcelain Hotel by JL Asia,7,2631,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,couple,singapore
+user45,Grand Hyatt Singapore,8,9987,0.117647059,0.235294118,0.211764706,0.211764706,0.223529412,leisure,couple,singapore
+user45,Park 22 Hotel Little India,7,6242,0.215384615,0.307692308,0.107692308,0.138461538,0.230769231,leisure,friend,singapore
+user45,Santa Grand Hotel Little India,7,2016,0.16,0.266666667,0.133333333,0.2,0.24,leisure,solo,singapore
+user45,Carlton Hotel Singapore,9,6616,0.204081633,0.204081633,0.204081633,0.204081633,0.183673469,business,family,singapore
+user45,Bunc Hostel,8,1582,0.186046512,0.23255814,0.11627907,0.23255814,0.23255814,leisure,couple,singapore
+user45,Village Hotel Albert Court by Far East Hospitality,8,3651,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,leisure,solo,singapore
+user45,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user45,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user45,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user46,Kallang River Backpackers,5,1318,0.3,0.5,0.05,0.025,0.125,business,friend,singapore
+user46,Pillow Talk Hostel,7,624,0.227272727,0.303030303,0.181818182,0.106060606,0.181818182,business,solo,singapore
+user46,Aqueen Hotel Paya Lebar,8,6491,0.272727273,0.454545455,0,0.136363636,0.136363636,leisure,family,singapore
+user46,Hotel 81 Premier Hollywood,7,3606,0.25,0.416666667,0.083333333,0,0.25,leisure,friend,singapore
+user46,The Club,9,6991,0.212765957,0.212765957,0.191489362,0.170212766,0.212765957,business,family,singapore
+user46,7 Wonders Boutique Capsule,8,702,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,solo,singapore
+user46,Hotel 81 Premier Hollywood,7,1803,0.25,0.416666667,0.083333333,0,0.25,business,couple,singapore
+user46,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user47,Bunc Hostel,8,3867,0.186046512,0.23255814,0.11627907,0.23255814,0.23255814,business,family,singapore
+user47,PARKROYAL on Kitchener Road,8,8988,0.19047619,0.317460317,0.206349206,0.158730159,0.126984127,business,friend,singapore
+user47,Hotel 81 Gold,8,3606,0.25,0.357142857,0.160714286,0.017857143,0.214285714,business,family,singapore
+user47,Orchard Parade Hotel by Far East Hospitality,8,5742,0.086956522,0.289855072,0.246376812,0.289855072,0.086956522,business,family,singapore
+user47,Mandarin Orchard Singapore,8,8464,0.125,0.25,0.1375,0.25,0.2375,business,family,singapore
+user47,Shangri-La's Rasa Sentosa Resort & Spa,9,23718,0.125,0.875,0,0,0,leisure,friend,singapore
+user47,Santa Grand Hotel East Coast,8,3370,0.228571429,0.285714286,0.128571429,0.185714286,0.171428571,business,family,singapore
+user47,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user47,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user47,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,leisure,solo,singapore
+user47,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user47,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user48,Ascott Orchard Singapore,9,18725,0.091954023,0.229885057,0.229885057,0.229885057,0.218390805,leisure,friend,singapore
+user48,Hotel NuVe,8,1913,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,leisure,solo,singapore
+user48,Pasir Panjang Inn,7,2503,0.461538462,0.512820513,0,0,0.025641026,leisure,couple,singapore
+user48,Hotel 81 Balestier,7,2100,0.22,0.4,0.06,0.14,0.18,business,solo,singapore
+user48,5footway.inn Project Chinatown 1,7,2973,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user48,Moni Gallery Hostel,7,1775,0.283018868,0.377358491,0.150943396,0.056603774,0.132075472,leisure,couple,singapore
+user48,Kawan Hostel,7,360,0.215909091,0.227272727,0.102272727,0.227272727,0.227272727,leisure,solo,singapore
+user48,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user48,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user48,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user49,Coziee Lodge,8,871,0.347826087,0.434782609,0.043478261,0.02173913,0.152173913,business,couple,singapore
+user49,Orchard Parade Hotel by Far East Hospitality,8,4594,0.086956522,0.289855072,0.246376812,0.289855072,0.086956522,leisure,solo,singapore
+user49,Amara Singapore,8,4307,0.23255814,0.23255814,0.220930233,0.127906977,0.186046512,leisure,solo,singapore
+user49,Hotel 81 Lucky,7,1697,0.236363636,0.363636364,0.163636364,0.018181818,0.218181818,business,couple,singapore
+user49,Hotel 81 Balestier,7,2100,0.22,0.4,0.06,0.14,0.18,leisure,solo,singapore
+user49,Value Hotel Balestier,7,2312,0.215686275,0.392156863,0.058823529,0.137254902,0.196078431,leisure,couple,singapore
+user49,Chinatown Hotel,7,2651,0.17721519,0.253164557,0.151898734,0.253164557,0.164556962,leisure,couple,singapore
+user49,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user49,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user49,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user49,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user49,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,leisure,family,singapore
+user5,Park 22 Hotel Little India,7,6242,0.215384615,0.307692308,0.107692308,0.138461538,0.230769231,business,family,singapore
+user5,Ibis Singapore on Bencoolen,8,5752,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user5,Santa Grand Hotel West Coast,6.5,2865,0.457142857,0.514285714,0,0,0.028571429,business,solo,singapore
+user5,Furama City Centre,8,5791,0.175257732,0.206185567,0.206185567,0.206185567,0.206185567,business,family,singapore
+user5,Grand Park City Hall,7,15354,0.21978022,0.21978022,0.21978022,0.21978022,0.120879121,leisure,friend,singapore
+user5,Hotel Royal,7,3745,0.1875,0.25,0.1375,0.25,0.175,business,solo,singapore
+user5,Amrise Hotel,6,1082,0.24,0.4,0.12,0,0.24,business,solo,singapore
+user5,The Shophouse at Arab Street,8,499,0.224719101,0.224719101,0.224719101,0.112359551,0.213483146,leisure,solo,singapore
+user5,5footway.inn Project Chinatown 2,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user5,85 Beach Garden Hotel,7,1935,0.2,0.2,0.2,0.2,0.2,business,couple,singapore
+user5,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user5,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user5,Resorts World Sentosa - Festive Hotel,7.5,7115,0.108108108,0.540540541,0.081081081,0.135135135,0.135135135,business,solo,singapore
+user5,Fragrance Hotel - Crystal,7,1661,0.212765957,0.425531915,0.127659574,0,0.234042553,business,couple,singapore
+user5,PARKROYAL on Kitchener Road,8,8489,0.19047619,0.317460317,0.206349206,0.158730159,0.126984127,business,family,singapore
+user5,Bliss Hotel Singapore,8,7233,0.157894737,0.210526316,0.210526316,0.210526316,0.210526316,leisure,friend,singapore
+user5,YMCA @ One Orchard,8,3834,0.208791209,0.21978022,0.21978022,0.21978022,0.131868132,business,family,singapore
+user5,Maple Lodge @ Chinatown,8,899,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,couple,singapore
+user5,Moon 23 Hotel,7,2699,0.182926829,0.243902439,0.097560976,0.231707317,0.243902439,leisure,couple,singapore
+user5,Hotel 81 Changi,7,2100,0.348837209,0.465116279,0.023255814,0.069767442,0.093023256,leisure,couple,singapore
+user5,Holiday Inn Singapore Atrium,8,4294,0.3,0.4,0.12,0.1,0.08,leisure,solo,singapore
+user5,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user5,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user50,Jayleen 1918,7,3076,0.202020202,0.202020202,0.202020202,0.202020202,0.191919192,leisure,solo,singapore
+user50,Park Avenue Changi,8,4943,0.263157895,0.526315789,0,0.157894737,0.052631579,leisure,family,singapore
+user50,Fragrance Hotel - Riverside,7,3585,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user50,Santa Grand Hotel Lai Chun Yuen,7,1803,0.183673469,0.204081633,0.204081633,0.204081633,0.204081633,business,solo,singapore
+user50,Hotel 81 Premier Hollywood,7,1803,0.25,0.416666667,0.083333333,0,0.25,leisure,couple,singapore
+user50,Blissful Loft,7,1335,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user50,Hotel Conforto,7,2497,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user50,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,business,couple,singapore
+user50,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user50,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user6,Four Seasons Hotel Singapore,9,12833,0.1625,0.25,0.225,0.25,0.1125,business,family,singapore
+user6,The Daulat,8,3732,0.215053763,0.215053763,0.139784946,0.215053763,0.215053763,business,solo,singapore
+user6,Pan Pacific Orchard,8,14730,0.115384615,0.256410256,0.243589744,0.256410256,0.128205128,leisure,friend,singapore
+user6,D'Resort @ Downtown East,8,3970,0.161290323,0.64516129,0.096774194,0.064516129,0.032258065,business,family,singapore
+user6,Village Hotel Albert Court by Far East Hospitality,8,7303,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,leisure,friend,singapore
+user6,Beary Best! by a beary good hostel,8,2252,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,couple,singapore
+user6,Tai Hoe Hotel,7,2100,0.171875,0.3125,0.1875,0.15625,0.171875,business,couple,singapore
+user6,Hotel Royal,7,7490,0.1875,0.25,0.1375,0.25,0.175,leisure,friend,singapore
+user6,Orchid Country Club,8,4194,0.333333333,0.583333333,0.083333333,0,0,business,couple,singapore
+user6,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user6,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user6,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user6,Adamson Inn,8,3370,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,business,family,singapore
+user6,Lloyd's Inn,8.5,3995,0.160493827,0.24691358,0.234567901,0.24691358,0.111111111,business,family,singapore
+user6,7 Wonders Boutique Capsule,8,7740,0.188405797,0.289855072,0.15942029,0.15942029,0.202898551,business,family,singapore
+user6,Sheraton Towers Singapore Hotel,8,6741,0.28125,0.625,0,0.03125,0.0625,business,couple,singapore
+user6,Fragrance Hotel - Ruby,7,1937,0.263157895,0.350877193,0.157894737,0.01754386,0.210526316,business,family,singapore
+user6,Harbour Ville Hotel,7,2142,0.541666667,0.291666667,0,0,0.166666667,business,couple,singapore
+user6,Marrison Hotel,7,2345,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user6,Kam Leng Hotel by JL Asia,7,1977,0.232142857,0.357142857,0.160714286,0.089285714,0.160714286,leisure,solo,singapore
+user6,ZEN Rooms Farrer Park,7,1867,0.232142857,0.357142857,0.160714286,0.089285714,0.160714286,business,couple,singapore
+user6,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user6,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user6,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user6,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user7,85 Beach Garden Hotel,7,1935,0.2,0.2,0.2,0.2,0.2,leisure,couple,singapore
+user7,The Sultan,8,6045,0.227272727,0.227272727,0.227272727,0.090909091,0.227272727,business,family,singapore
+user7,Fragrance Hotel - Waterfront,7,2433,0.411764706,0.558823529,0,0,0.029411765,business,couple,singapore
+user7,Rucksack Inn@Mackenzie,8,3168,0.152173913,0.217391304,0.195652174,0.217391304,0.217391304,leisure,couple,singapore
+user7,ZEN Rooms Farrer Park,7,3735,0.232142857,0.357142857,0.160714286,0.089285714,0.160714286,leisure,friend,singapore
+user7,Orchard Parade Hotel by Far East Hospitality,8,4594,0.086956522,0.289855072,0.246376812,0.289855072,0.086956522,leisure,solo,singapore
+user7,Arena Suites,7,9387,0.65,0.3,0.05,0,0,business,friend,singapore
+user7,Meadows Hostel,8,1099,0.227272727,0.303030303,0.181818182,0.106060606,0.181818182,leisure,couple,singapore
+user7,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user7,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user7,Quality Hotel Marlow,7,3164,0.254901961,0.392156863,0.058823529,0.137254902,0.156862745,leisure,couple,singapore
+user7,Meadows Hostel,8,1099,0.227272727,0.303030303,0.181818182,0.106060606,0.181818182,leisure,couple,singapore
+user7,Box Capsule Hostel,8,3281,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,friend,singapore
+user7,Hornbill Hotel,6,1373,0.166666667,0.37037037,0.092592593,0.37037037,0,leisure,couple,singapore
+user7,Santa Grand Hotel East Coast,8,6067,0.228571429,0.285714286,0.128571429,0.185714286,0.171428571,business,friend,singapore
+user7,Bay Hotel Singapore,8,4294,0.166666667,0.416666667,0.145833333,0.1875,0.083333333,leisure,solo,singapore
+user7,Hotel 81 Premier Hollywood,7,3606,0.25,0.416666667,0.083333333,0,0.25,business,family,singapore
+user7,The Residence at Singapore Recreation Club,8,4483,0.238095238,0.238095238,0.154761905,0.238095238,0.130952381,business,couple,singapore
+user7,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user7,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user8,The Daulat,8,3732,0.215053763,0.215053763,0.139784946,0.215053763,0.215053763,leisure,solo,singapore
+user8,Park 22 Hotel Little India,7,2653,0.215384615,0.307692308,0.107692308,0.138461538,0.230769231,business,couple,singapore
+user8,Grand Copthorne Waterfront,8,10386,0.25,0.416666667,0.125,0.125,0.083333333,business,friend,singapore
+user8,Hotel Royal @ Queens,7.5,4457,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user8,Hotel 1929,8,2971,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user8,Hotel 81 Sakura,7,2737,0.225,0.5,0.075,0.075,0.125,leisure,family,singapore
+user8,Holiday Inn Singapore Orchard City Centre,9,5917,0.08974359,0.256410256,0.256410256,0.256410256,0.141025641,leisure,solo,singapore
+user8,Hotel Conforto,7,2497,0.2,0.2,0.2,0.2,0.2,business,couple,singapore
+user8,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user8,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user8,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user8,Santa Grand Hotel Bugis,7,2122,0.243902439,0.243902439,0.219512195,0.085365854,0.207317073,leisure,solo,singapore
+user8,Quarters Hostel,8,3411,0.2,0.2,0.2,0.2,0.2,business,family,singapore
+user8,The Club,9,13981,0.212765957,0.212765957,0.191489362,0.170212766,0.212765957,business,friend,singapore
+user8,Perak Hotel,7.5,4943,0.213483146,0.224719101,0.112359551,0.224719101,0.224719101,leisure,family,singapore
+user8,Raffles Singapore,9,39946,0.217391304,0.217391304,0.206521739,0.217391304,0.141304348,leisure,friend,singapore
+user8,Value Hotel Balestier,7,2312,0.215686275,0.392156863,0.058823529,0.137254902,0.196078431,business,couple,singapore
+user8,The Haven by JetQuay,7.5,7490,0.157894737,0.526315789,0.157894737,0.052631579,0.105263158,business,couple,singapore
+user8,Fragrance Hotel - Oasis,7,1750,0.25,0.454545455,0.045454545,0.136363636,0.113636364,leisure,solo,singapore
+user8,5footway.inn Project Boat Quay,7,780,0.2,0.2,0.2,0.2,0.2,business,solo,singapore
+user8,60s hostel,8,3995,0.321428571,0.357142857,0.125,0.071428571,0.125,leisure,couple,singapore
+user9,Parc Sovereign Hotel - Tyrwhitt,8,4219,0.261538462,0.307692308,0.153846154,0.092307692,0.184615385,business,family,singapore
+user9,The Fragrance Hotel (Joo Chiat),8,1960,0.256410256,0.512820513,0.102564103,0.025641026,0.102564103,business,couple,singapore
+user9,Le Peranakan Hotel,6,1997,0.422222222,0.444444444,0.022222222,0,0.111111111,leisure,couple,singapore
+user9,The Shophouse at Arab Street,8,1997,0.224719101,0.224719101,0.224719101,0.112359551,0.213483146,business,couple,singapore
+user9,Orchid Country Club,8,4194,0.333333333,0.583333333,0.083333333,0,0,leisure,couple,singapore
+user9,Park View Hotel,7,6242,0.226190476,0.238095238,0.05952381,0.238095238,0.238095238,business,friend,singapore
+user9,Aqueen Hotel Paya Lebar,8,3246,0.272727273,0.454545455,0,0.136363636,0.136363636,leisure,couple,singapore
+user9,Hotel 81 Premier Hollywood,7,3606,0.25,0.416666667,0.083333333,0,0.25,business,family,singapore
+user9,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,business,solo,singapore
+user9,5footway.inn Project Ann Siang,8,878,0.191919192,0.202020202,0.202020202,0.202020202,0.202020202,leisure,solo,singapore
+user9,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,leisure,friend,singapore
+user9,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
+user9,Betel Box Backpackers Hostel,8,999,0.195121951,0.487804878,0.073170732,0.097560976,0.146341463,business,couple,singapore
+user9,Harbour Ville Hotel,7,4285,0.541666667,0.291666667,0,0,0.166666667,leisure,friend,singapore
+user9,Travellers Loft @ Lavender,7.5,749,0.293103448,0.344827586,0.155172414,0.068965517,0.137931034,business,couple,singapore
+user9,Grand Copthorne Waterfront,8,5193,0.25,0.416666667,0.125,0.125,0.083333333,leisure,solo,singapore
+user9,Fragrance Hotel - Royal,7,2433,0.421052632,0.263157895,0,0.105263158,0.210526316,business,solo,singapore
+user9,Superb Hostel,7,1448,0.212765957,0.212765957,0.212765957,0.14893617,0.212765957,leisure,solo,singapore
+user9,Amrise Hotel,6,1082,0.24,0.4,0.12,0,0.24,leisure,couple,singapore
+user9,Santa Grand Hotel Bugis,7,2829,0.243902439,0.243902439,0.219512195,0.085365854,0.207317073,business,family,singapore
+user9,5footway.inn Project Boat Quay,7,3122,0.2,0.2,0.2,0.2,0.2,business,friend,singapore
+user9,5footway.inn Project Boat Quay,7,2975,0.2,0.2,0.2,0.2,0.2,leisure,family,singapore
