@@ -21,7 +21,6 @@ def selectUser(phNo):
 		activeUsers[phNo] = User()
 
 	return activeUsers[phNo]
-		
 
 @bot.route('/', methods = ['GET','POST'])
 def homePage():
