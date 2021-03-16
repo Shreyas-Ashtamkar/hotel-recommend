@@ -1,5 +1,7 @@
 # Hotel Recommender
 
+A Simple Demo Hotel Recommendation Software.
+
 We have multiple files.
 They are in a specific Structure.
 
